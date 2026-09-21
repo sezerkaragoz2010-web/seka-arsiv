@@ -1,0 +1,79 @@
+=== CT-4592 ===
+
+CATA
+
+CT-4592
+
+ÜRÜN BİLGİ FORMU
+
+Tedarikçinin Adı veya Ticari Ünvanı: CATA
+
+Tedarikçinin Adresi: Bankalar Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy-Beyoğlu/İSTANBUL-TÜRKİYE
+
+Model Tanımlayıcı: CT-4592
+
+Işık Kaynağının Türü:
+
+Kullanılan Aydınlatma Teknolojisi: LED Doğrusal olmayan veya NDLS
+Doğrusal:
+Işık kaynağı başlık tipi (veya diğer Diğer elektrik ara
+elektrik ara birimi) birimi
+Elektrik Kaynağına Bağlı veya Değil Bağlı ışık kaynağı (CLS):
+(MLS/NMLS) NMLS HAYIR
+:îâ[ıı—gsı)/:ıyarlanabılen Işık Kaynağı HAYIR Zarf: HAYIR
+Yüksek Işıklılığa Sahip Işık Kaynağı
+(HLLS): HAYIR
+Kamaşma Önleyici Siperlik: HAYIR Kısılabilir: HAYIR
+Ürün parametreleri
+Parametre Değer Parametre Değer
+Genel ürün parametreleri:
+En yakın üst tamsayıya yuvarlanan Enerji Verimlilik Sınıfı
+çalışır Konumda Enerji Tüketimi 2 G
+(kWh/1000 saat)
+Bir küre içindeki (360”), bir geniş koni Ayarlanabilen, en yakın
+içindeki (120*) veya bir dar koni 100K değerine yuvarlanmış
+içindeki (90*) akıyı ifade edip bağıntılı Renk Sıcaklığı veya
+etmediğini gösteren Faydalı Işık Akısı . en yakın 100K'ye
+(ODuse) (Geniş Koni İçindeki) yuvarlanmış bağlantılı 2700
+110 Renk Sıcaklıklarının Değer
+Aralığı
+Çalışır Konumdaki Güç (Pon), W Hazırda Bekleme Gücü
+olarak ifade edilmiş şekilde (Psb), W olarak ifade
+2,0 edilmiş ve ikinci ondalık 0,00
+değere yuvarlanmış şekilde
+CLS için Ağ Bağlantılı Hazırda Bekleme En yakın tam sayıya
+Gücü (Pnet); W olarak ifade edilmiş yuvarlanmış renksel
+ve ikinci ondalık değere yuvarlanmış 0,00 geriverim indeksi; veya 80
+şekilde ayarlanabilen CRI değerleri
+aralığı
+Ayrı kontrol Yükseklik 70,0 Tam yükte, 250 nm ile 800
+donanımı, Genişlik 15,0 nm aralığında Spektral Güç
+aydınlatma kontrol |berinlik 5 Dağıtımı
+parçaları ve
+aydınlatma dışı
+kontrol parçaları
+(eğer varsa)
+olmadan Dış
+Boyutlar
+(milimetre)
+Eşdeğer Güç Bilgisi Eğer evet ise, Eşdeğer
+l Güç(W) l
+Türesellik koordinatlar X:0,5198
+(x ve y) y:0,4153
+Yönlü ışık kaynaklarına ilişkin par İ
+Işık Tepe Yoğunluğu (cd) Derece olarak Işın Açısı
+- veya ayarlanabilen Işın -
+Açıları Değer Aralığı
+LED ve OLED ışık kaynaklarına ilişkin par İ
+R9 Renksel Geriverim İndeksi değeri - Dayanım katsayısı 0,90
+Lümen Bakım Katsayısı 0,96
+LED ve OLED şebeke ışık kaynaklarına ilişkin parametreler:
+Yer Değiştirme faktörü (kosinüs b1) : McAdam Elipslerinde Renk 6
+Tutarlığı
+Bir LED ışık kaynağının, belli bir watt Evet ise, değiştirilme
+değerinde entegre balasta sahip durumu(W)
+olmayan bir floresan ışık kaynağı ile -
+değiştirildiğinin belirtilmesi durumunda,
+Titreşim ölçüsü (Pst LM) 0,9 Stroboskopi Etkisi Ölçüsü 04
+(SVM)
+

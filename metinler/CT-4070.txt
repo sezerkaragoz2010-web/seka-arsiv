@@ -1,0 +1,244 @@
+=== CT-4070 ===
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+CT- 4070LEDLİ HAVUZ ARMATÜRÜ / LED POOL LIGHT
+
+Değerli Müşterimiz, .
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması
+gerekmektedir.
+
+Dear Customer,
+This user manual contains the necessary information to ensure maximum performance. In order for the product warranty to be valid, all subjects in the user manual must be
+applied.
+
+TEKNİK ÖZELİKLER/TECHNICAL SPECIFICATIONS Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+* Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Güç/Power 135 W * Taşıma ve paklîye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı
+Gerilim/voltage :12 V DC sorumluluğundadır. | . .
+Frekans/Freguency :50-60 Hz jnün herhangıvbır zarar görmemesi ıgn_ğmba_lajın içinde taşınması gerekir.
+Renk Sıcaklığı/Colour Temperature :6400K * MAVİ / BLUE * RGB . ınü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+Işık Akısı/LşJm>inc>.us Flux :4050 İm Matters to be considered during handling and transportation;
+Lümen Verimliliği/Lumen Efficiency :115.71lm / W * Products should be protected against direct impacts during transportation.
+Koruma Sınıfı/Protection Class :1P68 - Class ll « Damages that may occur during transportation and transportation are the responsibility of the
+Işık Açısı/Light Angle :180? contractor, loader, buyer and user.
+Bsweyanchlğınlwgı/Rarecgj Current :26A * The product must be transported in its packaging to avoid any damage.
+Ürün Ömrü/Life time 15000 saat/hours * Put the product upright. Do not put weight on the product.
+Çalışma Sıcaklığı/Working Temperature : -209C-*40*C KULLANIM ALANLARI FIELDS OF USAGE
+CRI (Ra) 1280 Süs Havuzu - Yüzme Havuzu Ornamental Pool - Swimming Pool
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+ü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+
+teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+
+izün orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+
+in barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda ürününüz garanti kapsamına girmemektedir.
+
+* Ürün kullanım amaçları haricinde kullanılmamalıdır.
+
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez. Uyuşmazlık
+durumunda meydana gelebilecek arızalardan satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+
+rünü elektrik kaçağı olabilecek yerlerde kullanmayınız.
+
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız.
+
+Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantisi de geçersiz kalacaktır.
+
+INSTALLATION AND SAFETY WARNINGS
+
+* When receiving your product, check whether there is any physical damage. Reduest the replacement of damaged products from the cargo or warehouse.
+
+* When receiving your product, check if there are any accessories that should come with the product.
+
+* Keep the original box or package, accessories and invoice of your product for future service needs.
+
+* Be careful not to damage the product barcode, model and serial number. İf these are not read or worn, your product is not covered by the warranty.
+
+* The product should not be used other than for its intended use.
+
+* The seller company does not take any responsibility in cases of injury or damage that may occur as a result of improper use of the product. The seller company cannot be held
+responsible for the malfunctions that may occur in case of conflict and the malfunction cannot be evaluated within the scope of warranty.
+
+* Only additional apparatus determined by our company should be used for assembly.
+
+* Do not use the product in places where electricity leakage may occur.
+
+* Do not modify, repair, manipulate or make any physical intervention on the product.
+
+As a result of this process, material damage may occur and the product warranty will be void.
+
+BAĞLANTI ŞEMASI / WIRING DIAGRAM & ,
+
+ŞEKİL / FIGURE 1 —
+LA ASTIN PARAFFIN
+ATERLEVEL
+—JA,._ .
+bac SFROM T
+ŞEKİL / FIGURE 2 ŞEKİL / FIGURE 3 ŞEKİL / FIGURE 4
+DONOTASSEMBLEON — | ASSEMBLE ON simiş z
+ı ö -
+X V —. —.
+aa — mmtca H — SAKLENTuN L M ceSEnNc İ
+avESADHADUS SUFKE — Raşaçaart ue — J orenrosmon V ! securtorosmon V |
+
+ÖNEMLİ UYARILAR
+
+* Üründe meydana gelen herhangi bir arıza durumunda uzman yetkili servisimizle irtibata geçiniz.
+
+* Yetkili teknik servisimiz dışında ürüne kimsenin müdahale etmesine izin vermeyiniz. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+ün çalışır durumdayken yüzeyi sıcak olabilir. Ürüne enerjisi kesilip, soğumadan dokunulmamalıdır. Ürün çalışır durumdayken direkt olarak bakmayınız.
+yüzeyini alkol, benzin gibi yanıcı maddelerle temizlemeyiniz.
+
+Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+.
+.
+
+IMPORTANT NOTİCES
+
+* İn case of any malfunction in the product, please contact our authorized authorized service.
+
+* Do not allow anyone to interfere with the product other than our authorized technical service. As a result of such interventions, the product is completely out of warranty.
+
+. Trrııî surface may be hot while the product is in operation. The product should not be touched before the power is cut off and it cools down. Do not look directiy at the product
+while it is in operation.
+
+* Do not clean the product surface with flammable substances such as alcohol or gasoline.
+
+* Keep the product out of reach of children and in the product box.
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+CT- 4070LEDLİ HAVUZ ARMATÜRÜ / LED POOL LIGHT
+
+MONTAJ ŞEKLİ
+Armatür monte edilmeden önce hazırlık adımları uzman bir elektrikçi tarafından tamamlanmalıdır, bkz.
+Şekil 1.
+
+1. Havuzun elektrik sisteminin yürürlükteki tüm yerel kanun ve yönetmeliklerin gerekliliklerine uygun
+olduğundan emin olunuz. Kapama / Turn OFF Açma / Turn ON
+- Bağlantı kutusu havuz kenarından en az 120 cm uzağa yerleştirilmelidir, bkz. Şekil 1. R
+
+- Armatür, armatürün lensinin üst kenarı su yüzeyinin en az 45 CM altında olacak şekilde monte Kırmızı / Red Yeşil / Green
+edilmelidir, bkz. Şekil 1.
+
+2. Dikey bir duvar üzerinde armatürün monte edileceği konumu belirleyiniz. Işık merceğinin üst kısmı
+normal su seviyesinin 45 cm altında olmalıdır, bkz. Şekil 1.
+
+3. Kablo kanalını montaj ara parçasının ortasına (aparatın soluna) bağlayınız, bkz. Şekil 2.
+
+DİKKAT: Bütünlük sağlaması için armatürü düz bir havuz duvarına veya da içeri doğru kavisli bir duvara Beyaz / White
+monte ediniz, bkz. Şekil 3. Renk değiştirme modu 2
+4. Armatürün arkasına maksimum 3 metre uzunluğunda bir kablo sarınız. Bu ekstra kablo, armatürü Color change mode 2
+değiştirmek ve bakım yapmak için havuzdan çıkarmanıza olanak tanır.
+
+5. Kabloları bağlantı kutusundan ve kanaldan geçiriniz.
+
+6. Tüm kabloları bağlantı kutusundaki 'ilgili devre kablolarına bağlayınız.
+
+7. Bağlantı kutusu kapağını yerine sabitleyiniz.
+
+8. Işığı 10 saniyeden fazla çalıştırmadan önce armatür tamamen suya batana kadar havuzu doldurun.
+
+Düzgün çalışıp çalışmadığını kontrol etmek için ana şalteri veya devre kesiciyi ve Sualtı Işıklarını
+
+çalıştıran şalteri açın.
+
+9. Dönen Kilitleme Sistemi ışığın montaj parçasına sabitlenmesini sağlar, bkz. Şekil 4.
+
+C. Kış aylarında armatürü yerinden çıkarmayınız.
+
+Armatürü tamamen suya daldırılmadığı sürece asla 10 saniyeden fazla çalıştırmayınız. Tamamen suya daldırılmadığında, armatür aşırı derecede ısınır ve bu da havuz kullanıcılarının,
+montajlcıların veya çevredekilerin ciddi şekilde yaralanmasına veya da ürünlerin zarar görmesine neden olabilir.
+
+Mavi / Blue Sarı / Yellow
+
+Turkuaz / CYAN Mor / Purple
+
+Renk değiştirme modu 1
+Color change mode 1
+
+Renk değiştirme modu 3
+Color change mode 3
+
+INSTALLATION
+Preparatory steps must be completed by the electrician before the light is installed, see Figure 1.
+
+1.Ensure that the electrical system of the pool conforms with the reguirements of the current all local codes and ordinances.
+
+- The junction box, or the low voltage transformer for 12 volt models, is located at least 120CM from the edge of the pool, see Figure 1.
+
+- The mounting bracket must be properly installed so that the top edge of the Underwater Light's lens is at least 45CM below the surface of the water in the pool, see Figure 1.
+2. Locate the position on a vertical wall where light is to be installed. The top of the light lens must be 45CM below normal water level, see Figure 1.
+
+3. Connect conduit to the midst of Mounting Spacer (left of Bracket), see Figure 2.
+
+CAUTION: Finish area surrounding Mounting Spacer MUST be flat and flush with the face of the Mounting Spacer, this ensures a snug fit between light and wall, see Figure 3.B.
+Perform the following steps after the electrical system reguirements are met.
+
+4. Wrap a length of the cord up to a maximum of eight(8) feet long on the back of the light assembly. This extra cord allows you to bring the light out of the pool for relamping and
+servicing.
+
+5._Connect cord electrical wires at Junction box, through Conduit, be careful not to pull the three (3) inches of slack cord at the light through the conduit when connecting the
+wires.
+
+6. Connect all wires to the 'corresponding circuit wires in the junction box and feed paraffin.
+
+7. Secure the junction box cover in place.
+
+8. Before operating the light for more than 10 seconds fill the pool until the Underwater Light is completely submerged in water. To check for proper operation turn on the main
+switch or circuit breaker as well as the switch that operates the Underwater Light itself.
+
+9. Rotating Locking System ensures light is secured to bracket, see Figure 4.
+
+C. Winterizing: Light should be left in place for winterization.
+
+Never operate this Underwater Light for more than 10 seconds unless it is totally submerged in water. Without total submersion, the fight assembliy will get extremely hot, which
+May result in serious injury to pool users, installers, or bystanders, or in damage to property.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; isçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 is gününü geçemez...
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması ya da kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+WARRANTY CERTIİFİCATE
+
+Warranty conditions
+
+1- The warranty period starts from the invoice date of the goods andit is | year.
+
+2- The entire product, including all parts, is under warranty.
+
+3- In case the goods are found to be defective, the consumer, in Article 11 of the Law No. 6502 on the Protection of the Consumer;
+a) To have free repair.
+b) fit is not repaired, replacing it with a new product.
+
+AEEE Yönetmeliğine Uygundur/Compliant with WEEE Regulation c €
+
+İTHALATÇI-İMALATÇI / /MPORTER/EXPORTER : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul-/-TÜRKİYE

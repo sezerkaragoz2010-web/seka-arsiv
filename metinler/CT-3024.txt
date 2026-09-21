@@ -1,0 +1,194 @@
+=== CT-3024 ===
+
+©
+Geleceğin Teknolojisi Bugünden... CAIA
+
+CT-3024 ALTAY DUVAR TİPİ VANTİLATÖR
+
+Değerli Müşterimiz, .
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer
+alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+* Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+* Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı
+
+Fan Gücü : ZOW sorumluluğundadır.
+
+Gerilim 1220-240 V e Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Frekans 150-60 Hz
+
+Çalışma Sıcaklığı 1-200C-440'C KULLANIM ALANLARI .
+
+Pervane Çapı :18" Evler - Oteller - Lokantalar - Mağazalar - Kafeler
+
+KURULUM ŞEKLİ
+1 2 3 4 5 8 Z 8 2
+Tablo 1: İlgili olduğu li i yönelik bilgi
+Tanım Sembol Değer Birim
+Azami fan debisi F 79,1 m3/dk
+Z N Fan güç tüketimi P 70 W
+i : — Hizmet değeri SV 1,19 (m3/dk)W
+) Z Hazırda bekleme güç tüketimi PSB 0,8 W
+/ e Fan sesi gücü seviyesi LWA 68 AB(A)
+10 / a Azami hava hızı c 6.61 Metre/sn
+12 | Hizmet değeri ile ilgili standart ölçüm EN IEC 60879:2019
+. [ H Daha fazla bilgi için irtibat detayları : Uğur Aydınlatma San. ve Tic. Ltd. Şti. / Bankalar Şair Ziyapaşa Cad.
+1. Ön Izgara : Modern Palas No:3A 34421 Beyoğlu/İSTANBUL-TÜRKİYE
+2.Çerçeve
+3.Pervane Kilit Somunu
+4.Pervane
+5.Kapak Kilit Somunu 1. Pervane kapağını saat yönünde ve plastik somunu saat yönünün tersine çevirerek
+6.Arka Izgara sökün ve her ikisini de çıkarın.
+7.Ön panel 2. Arka izgarayı uygun pozisyona yerleştirin.
+8.Motor Bölümü 3. Arka ızgarayı sabitlemek için plastik somunu sıkıca vidalayın.
+9. Vantilatör Sabitleme Askısı 4. Pervaneyi motor şaftına oturtun ve sabitleme pimine ulaşana kadar itin.
+
+10. Köprü Vidası 5. Pervane kapağını motor şaftına saat yönünün tersine çevirerek vidalayın.
+
+- BODTU V N 6. Ön ızgaranın kenarını, düzgün bir şekilde oturana kadar arka ızgaraya bastırın.
+M Vantilatör Ayağı 7. Izgaraları sağlam bir şekilde sabitlemek için ızgara klipsinden geçen fan ızgarası
+12. Uzaktan Kumanda kilitleme vidalarını ve somunlarını sıkın.
+
+ÇALIŞTIRMA TALİMATLARI
+Vantilatörü manuel olarak çalıştırmak için fan kontrol panelindeki veya uzaktan kumandadaki düğmeleri kullanın.
+
+DUVARA MONTE ŞEKLİ
+
+1.Asma braketi, kutuda çıkan üç sabitleme
+vidası ile duvara monte edin. Montaj
+yüksekliği 2,3 metre olmalıdır.
+
+2Vantilatörü, askı kancası ile asma braketi
+üzerine asın.
+
+GÜVENLİK TALİMATLARI
+
+* Lütfen ürünü kullanmadan önce tüm talimatları okuyun.
+
+* Fan yalnızca kullanım kılavuzunda tanımlanan amaçlara uygun olarak kullanılmalıdır.
+
+* Parmaklar, kalemler veya herhangi başka nesneleri koruma ızgarasından içeri sokmayın.
+
+* Elektrik tehlikelerine karşı korunmak için fan fişini veya kablosunu suya daldırmayın ya da üzerine sıvı sıkmayın.
+* Ürün çocuklar tarafından veya çocukların yanında kullanılırken yakın gözetim gereklidir.
+
+* Fan kullanılmadığında, başka bir yere taşınırken veya temizlenirken fişini çekin.
+
+* Hareketli parçalarla temastan kaçının.
+
+* Patlayıcı veya yanıcı gazların bulunduğu ortamda çalıştırmayın.
+
+* Hasarlı bir kablo veya fişle, arıza yapmış ya da düşürülerek hasar görmüş bir cihazı çalıştırmayın.
+
+* Cihaz üreticisi tarafından tavsiye edilmeyen veya satılmayan ek parçaların kullanımı tehlikelere yol açabilir.
+* Dış mekanlarda kullanmayın.
+
+* Kabloyu masa veya tezgahın kenarından sarkıtmayın ya da sıcak yüzeylere temas ettirmeyin.
+
+* Fişi çıkarmak için fişi tutup çekin; asla kabloyu çekmeyin.
+
+* Daima kuru ve düz bir yüzeyde kullanın.
+
+* Fan ızgaraları düzgün şekilde yerinde olmadan çalıştırmayın.
+
+AEEE Yönetmeliğine Uygundur C €
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul
+
+
+
+--- sayfa sonu ---
+
+CT-3024 ALTAY WALL FAN
+
+©
+Technology of the Future from Today... CA I A
+
+Dear Customer,
+This user manual contains the necessary information to ensure maximum performance. İn order for the product warranty to be valid, all subjects in
+the user manual must be applied.
+
+TECHNICAL SPECİFİCATIONS Matters to be considered during handling and transportation;
+
+* Products should be protected against direct impacts during transportation.
+Fan Power :Z7OW * Damages that may occur during transportation and transportation are the
+Voltage :220-240 V responsibility of the contractor, loader, buyer and user. —
+Fregueney :50-60 Hz The product must be transported in its packaging to avoid any damage.
+Working Temperature 1-209C-4*40*C FIELDS OF USAGE
+Fan Size 118" Houses - Hotels - Restaurants - Shops - Cafes
+
+ASSEMBLY INSTRUCTIONS
+
+1 2 3 4 5 8 Z 8 2
+Table 1: ion to identify the model(s) to which the information relates to
+finitir Symbol Value Unit
+fan flow rate F 791 m3/min
+| , N Fan power consumption d 70 W
+H J d Hİ Service value SV 1,19 (m3/min)Ww
+he Standby power consumption PSB 0,8 W
+— Fan sound power level LWA 68 AB(A)
+10 / ; air velocity c 6,61 Mt/sec
+12 u fl, Standard Measurement for Service Value EN IEC 60879:2019
+Z . . . Uğur Aydınlatma San. ve Tic. Ltd. Şti. / Bankalar Şair Ziyapaşa Cad.
+1. Front Grill [ Contact details for more informatlon : : NTodern Palas No:3A 34421 ğeyoğm/iSTANğUL-TĞRîivşE
+2.Frame
+3.Blade Lock Nut
+4.Blade
+5.Cap Loc_k Nut 1. Remove the blade cap by turning it clockwise and the plastic nut by turning it
+6.Rear Grill counterclockwise, and take both off.
+7.Front Panel 2. Position the rear grill in the proper place.
+8.Motor Section 3. Secure the rear grill by firmiy tightening the plastic nut.
+9.Fan Mounting Bracket 4. Place the blade onto the motor shaft and push it until it reaches the securing pin.
+
+10.Bridge Screw 5. Attach the blade cap to the motor shaft by turning it counterclockwise,
+
+-Prld9g 6. Press the edge of the front grill onto the rear grill until it fits properly.
+11.Fan Base 7. Tighten the fan grill locking screws and nuts through the grill clip to securely fix the
+12.Remote Control grills.
+
+OPERATING INSTRUCTIONS
+To operate the fan manually, use the buttons on the fan control panel or the remote control.
+
+WALL MOUNTING INSTRUCTIONS
+
+1.Mount the hanging bracket to the wall using
+the three fastening screws provided in the
+box. The installation height should be 2.3
+meters.
+
+2.Hang the fan onto the hanging bracket
+using the mounting hook.
+
+SAFETY INSTRUCTIONS
+
+* Please read all instructions before using the product.
+
+* Use the fan only as described in this manual.
+
+* Do not insert fingers, pens, or any objects into the protective grill.
+
+* To avoid electric shock, do not immerse the fan plug or cord in water or spray liguids onto İt.
+* Close supervision is necessary when the fan is used by or near children.
+
+* Always unplug the fan when not in use, during cleaning, or while relocating İt.
+
+* Avoid contact with moving parts.
+
+* Do not operate the fan in environments with explosive or flammable gases.
+
+* Do not use a fan with a damaged cord, plug, or after it has malfunctioned or been dropped.
+* The use of parts not recommended or sold by the manufacturer may cause hazards.
+
+* Do not use the fan outdoors.
+
+* Do not let the cord hang over table edges or touch hot surfaces.
+
+* Always hold the plug when unplugging; do not pull the cord.
+
+* Always use the fan on a dry, flat surface.
+
+* Do not operate the fan without the grills properly in place.
+
+Compliant with WEEE Regulation C €
+IMPORTER/EXPORTER : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul / TÜRKİYE
+

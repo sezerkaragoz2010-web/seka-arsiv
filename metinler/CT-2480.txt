@@ -1,0 +1,207 @@
+=== CT-2480 ===
+
+CT-2480 ACİL KİTLİ ETANJ / LED TRI-PROOF LIGHT WITH EMERGENCY KIT
+
+Geleceğin Teknoloj
+
+Değerli Müşti ,
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+Valued Customer,
+This user manual contains the necessary information to ensure maximum performance. In order for the product warranty to be valid, all subjects in the user manual must be applied.
+
+TEKNİK ÖZELİKLER / TECHNICAL SPECIFICATIONS Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+
+Ürün dimmerle kullanılamaz. / The product cannot be used with a dimmer. Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+
+Güç/Power :40W Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+
+Gerilim/Voltage 1220-240 V Subjects to be considered during handling and transportation;
+
+Frekans/Freguency 150-60 Hz Products should be protected against direct impacts during transportation.
+
+Renk Sıcaklığı/Color Temperature 16400K İn order to avoid any damage to the product, it must be transported in its packagin:
+
+Işık Akısı/Luminous Flux 143001m Damages that may occur during transportation are the responsibility of the con(raclor shipper, buyer and user.
+
+Lümen Verwmhlıgw/Lumen Efficiency :107.5 lİm / W Put the product upright. Do not put weight on the product.
+
+Koruma Swmh/Protectıon Class : WPGS Class ll
+
+Işık Açısı/Beam Anglı
+
+Beyan Akımw/Rated Current FOS4A
+İrün Ömrü/Lifetir 15000 saat KULLANIM ALANLARI FIELDS OF USAGE
+Çalsma Sıcaklığı/Working Temperature : -207C * 40'c
+RI (Ra) 1280 Garajlar, Metro İstasyonları, Depolar, Otobüs Durakları, Hastaneler Oteller — Garages, Metro Stations, Warehouses, Hospital, Hotels
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+* Ürününüzü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+* Ürününüzü teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+. Urununuzun orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki şervis ihtiyacında kullanmak üzere saklayınız.
+model ve seri dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda ürününüz garanti kapsamına girmemektedir.
+
+: Örün kullanım amaçları haricinde kullanılmamalıdır.
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+* Güç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+* Ürün montajına başlamadan önce kabloların, armatürün dış çeperlerinin hasarlı olmadığından emin olunuz. Armatürü yerleştireceğiniz yerde armatüre, hasar verebilecek çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz. Uyuşmazlık durumunda meydana gelebilecek arızalardan satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+
+Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+
+MOUNTING AND SAFETY WARNINGS
+
+* When receiving your product, check out whether there is any physical damage. Reguest the replacement of damaged products from the cargo or warehouse.
+
+* When receiving your product, check out if there are any missing accessories that should come with the product.
+
+* Keep the original box or package, accessories and invoice of your product for later service use.
+
+1 Bo careful not to damage the product barcode, model and serial number. İFthey are not read or are womm , your product İs not covered by the warranty.
+
+* The product should not be used for other than for its intended u:
+
+: The Seller company does not fake any responsibility in Cases Of İnjury or damage that may occur as a result of İmproper use of the product.
+
+* Electrical connections should only be made by dualified personnel.
+
+* Make sure that the electrical connection is turned off while the product is being installed.
+
+* Do not use the product if the power cables are damaged. That may result in death, serious injury or property damage.
+
+* Before starting the product assembly, make sure that the cables and the outer body of the luminaire are not damaged. In the place where you will place the luminaire, no notches, protrusions, etc. that may damage
+the luminaire take care not to be present.
+
+* Make sure that the product does not receive a voltage higher than the operating voltage specified on the label. The seller company cannot be held responsible for the malfunctions that may occur in case of discord and
+the malfunction cannot be evaluated within the scope of warranty.
+
+* Only additional parts determined by our company should be used for assembly.
+
+: Tne'mains connection must be made with conneetion materials İn accordance with the installation regulations of the relevant country.
+
+* Do not use the prodüct in places where electricity leakage may occur.
+
+* Cable connection points must be insulated with connection terminals or fusible tape.
+
+: Do not change, repalir or make any physical intervention ön the product. As a result Of this process, materlal damage may occur and the product warranty wili be vofd.
+
+MONTAJ
+
+Ürünün montajını yapmadan önce enerjiyi kapatınız.
+* Çizimde görülen iki montaj parçasını tavana vidalayınız.
+
+* Ürün tabanını montaj parçasına sabitleyiniz.
+
+* Kabloyu bağladıktan sonra ürünün doğru bir şekilde monte edildiğinden emin olunuz.
+
+MONTAGE
+Turn off the power before assembling the product.
+
+1 Şcrey the Bwo mounting parts shown in the drawing to the ceiling.
+
+* Fix the product base to the mounting pi
+
+: After connecting the cable, make sure that Ehe product is installed correctiy.
+MONTAJ ŞEKLİ / INSTALLATION METHOD
+
+Kahverengi - L Montaj Parçası
+Brown-L Mounting Part
+
+4
+
+Montaj Parçası
+Mounting Part
+
+DEMONTAJ BİLGİSİ
+
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız.
+DISSASSEMBLY INFORMATION
+
+After making sure that the power is off, perform the reverse operations of the assembly information.
+ÖNEMLİ UYARILAR
+
+Üründe meydana gelen herhangi bir arıza durumunda uzman yetkili servisimizle irtibata geçiniz.
+
+Yetkili teknik servisimiz dışında ürüne kimsenin müdahele etmesine izin vermeyin. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+Bu armatürünün harici bükülgen kablo veya kordonu hasarlanırsa, bir tehlikeden kaçınmak için yetkili kişi tarafından değiştirilmesi gerekir.
+
+Armatür yüzeyini alkol, benzin, gibi yanıcı maddelerle temizlemeyiniz.
+
+Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu wcınde muhafaza ediniz.
+
+Denize yakın yerlerde tuzlu suyun nemi armatürün dış yüzeyine zarar verebilir.
+
+IMPORTANT WARNINGS
+
+In case of any defect in the product; İf you are not an expert in repair, please contact our authorized service.
+Do not allow anyone to interfere with the product other than our authorized technical service. As a result of such interventions, the product is completely out of warranty.
+
+If the external flexible cable or cord of this lighting fixture is damaged; must be replaced by a aualified person to avoid a hazard.
+
+The surface of product may be hot while is in operation. The product should not be touched before the power cut off and it cools down. Do not look directiy to the product while it is in operation.
+Do not clean the luminaire surface with flammable substances such as alcohol , gasoline.
+
+Keep the product out of reach of children and in the product box.
+
+The humidity of salt water near the sea may damage the outer surface of the luminaire.
+
+AEEE Yönetmeliğine Uygundur. C €
+
+İTHALATÇI-İMALATÇI/IMPORTER-EXPORTER : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+CT-2480 ACİL KİTLİ ETANJ / LED TRI-PROOF LIGHT WITH EMERGENCY KIT
+
+Geleceğin Teknoloj
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadı
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tuketıcmm Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hıcbır ücret talep etmeksizin malın onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez..
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması ya da zorunlu olan gibi), garantili ürünlerde
+yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak
+ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb. doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+WARRANTY CERTIFİCATE
+
+Warranty Conditions
+1- The warranty period starts from the invoice date of the goods and it is 1 year.
+2- The entire product, including all parts, is under warranty.
+3- In case the goods are found to be defective, the consumer, in Article TI of the Law No. 6502 on the Protection of the Consumer;
+a) To have free repair.
+b) Ifit is not repaired, replacing it with a new product.
+4- In case of free repair of the consumer from these rights, the seller; It is obliged to have the goods repaired without any charge under any other name, such as labor cost, replacement part cost or any other name.
+5- In case of malfunction of the product within the warranty period, the period of repair is added to the warranty period. The repair period of the goods cannot exceed 20 working days.
+6- Defects resulting from the use of the product contrary to the terms in the user manual are not covered by the warranty.
+What are the usage errors that make the defective product out of warranty?
+Defects arising from electricity and user usage (such as power cut, voltage fluctuation, installation of accessories that do not belong to the machine or not using mandatory accessorles), any intervention other than
+authorized service in guaranteed products, damage to the label in products with warranty label, damage to the outer surface of the device. broken, scratched etc. Failures caused by reasons such as failures caused
+by use in dusty, humid, extremely hot or cold environments, flood, fire, earthauake, lightning strike, etc. Failures caused by natural disasters are not covered by the warranty.
+Servis Adresi/Service Address : Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. C €
+
+İTHALATÇI-İMALATÇI/IMPORTER-EXPORTER : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+

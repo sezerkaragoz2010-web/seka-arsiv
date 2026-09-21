@@ -1,0 +1,297 @@
+=== CT-4566 ===
+
+Geleceğin Teknolojisi Bugünden...
+
+CT-4566 TV RGB ŞERİT LED SETİ / LED STRIP SET
+50mm
+
+a ı 1 L -— ı -— L
+-H HBÇ E N MH M NMÇN NN
+ei ARLLARI L - LLI - L
+
+|17mm|
+
+Değerli Müşterimiz, / Dear Customer, N
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması
+gerekmektedir. / This user manual contains the necessary information to ensure maximum performance. In order for the product warranty to be valid, all subjects in the user
+mManual must be applied.
+
+TEKNİK ÖZELİKLER/TECHNICAL SPECIFICATIONS Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+* Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Güç/Power 4W * Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Gerilim/Voltage :5VDC * Ürünün herhangi bw_r zarar görmemesi için ambalajın içinde _tas.mması gerekir.
+; Matters to be considered during handling and transportation;
+Işık Akısı/Luminous Flux :1601m/Tmt *« Products should be protected against direct impacts during transportation.
+LED Sayısı/LED Guantity 130LED/1İmt . t?amagesdthat may occur during transportation and transportation are the responsibility of the contractor, loader,
+" : uyer and user.
+E?;in;îıîgeıgxîğegîğıon Class ğğ? . Thğ product must be transported in its packaging to avoid any damage.
+Rulo Ölçüsü/Roll Size 13 mt KULLANIM ALANLARI FIELDS OF USAGE
+Çalışma Sıcaklığı/Working Temperature : -20"C- * 40'C LED TV - Ses Sistemleri - Otomobiller LED TV - Audio Systems - Cars
+ÜRÜN AVANTAJLARI
+1. Esneklik : Müşterinin isteğine göre şeritler ayarlanabilir.
+2. Etkin Enerji : Yüksek verimlilik, 1/3'den fazla enerji tasarrufu vs. floresan lambalara göre ve 2/3 parlak lambalarla karşılaştırıldığında enerji tasarrufu sağlar.
+3. Çevresel Etken : Civasızdır, sessiz çalışır, EMİ vs.
+4. Uzun Yaşam Süresi : Düşük enerjiyle 15000 saatten fazla çalışır.
+5. Güvenlik : İnsan bedenine zarar vermeyecek voltajla çalışır.
+
+LED, elektrik enerjisini parlayan ışık enerjisine dönüştürür. LED aydınlatma ile 470'ten fazla verimlilik sağlarsınız.
+Esnek LED şerit ışıklandırması, esnekliği sayesinde müşterilere kolay kurulum sağlamaktadır.
+
+PRODUCT ADVANTAGES
+Flexibility : The strips can be adjusted according to the customer's reguest.
+. Effective Energy : High efficiency, more than 1/3 energy saving etc. It saves energy compared to fluorescent lamps and 2/3 bright lamps.
+. Environmental Factor : Mercury free, works silentiy, EMİ etc.
+. LongLife Span : It works for more than 15000 hours with low energy.
+. Safety : It works with voltage that will not harm the human body.
+The LED converts electrical energy into light energy that shines. With LED lighting, you provide more than 70 ©6 efficiency.
+Flexible LED strip lighting provides easy installation to customers thanks to its flexibility.
+
+ÇNN
+
+MONTAJ
+
+Ürünün kurulumundan önce kurulacak yüzeyin temiz olması gerekir.
+
+1- Makaradan led şeriti çıkarınız. Bandı ters yöne çekiniz. Kurulacak yere led şeriti yapıştırınız.
+
+2- Led şeritin ucundaki pinler ile kumanda kontrol cihazındaki pinleri oklar birbirine bakacak şekilde takınız.
+3- Kumanda kontrol cihazının ucundaki USB kabloyu TV'ye bağlayınız.
+
+4- Kurulum yaptıktan sonra kumanda üzerinden ayarlamaları yapabilirsiniz.
+
+INSTALLATION
+
+The surface to be installed before the installation of the product must be clean.
+
+1- Remove the led strip from the reel. Pull the band in the opposite direction. Paste the LED strip to the place to be installed.
+2- Insert the pins at the end of the LED strip and the pins in the control control device to look at each other.
+
+3- Connect the USB cable at the end of the controller device to the TV.
+
+4- After installation, you can adjust from the controller.
+
+KUMANDA KONTROL İŞLEVLERİ / CONTROLLER FUNCTIONS
+
+1. Açma/Kapama - Turn On/Standby
+
+2. Statik aydınlatma modundan dinamik moda veya dinamik modlar arasında geçiş / Dynamic Mode Adjust
+3. Dinamik mod aydınlatma hız ayarlama / Dynamic Speed Adjust
+
+4. Statik Renk Ayarı / Static Color Adjust
+
+5. Statik Renk Ayarı / Static Color Adjust
+
+6. Tek Renk Seçimi / Direct Color Select
+
+7. Parlaklık Ayarı / Brightness Adjust
+
+8. Parlaklık Ayarı / Brightness Adjust
+
+9. Statik aydınlatma modundan dinamik moda veya dinamik modlar arasında geçiş / Dynamic Mode Adjust
+10.Dinamik mod aydınlatma hız ayarlama / Dynamic Speed Adjust
+
+11.Her mod 3 kez tekrar edecek şekilde döngü içinde 17 dinamik mod ayarlama / Demo Mode
+
+DEMONTAJ BİLGİSİ/DISASSEMBLY INFORMATION
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız. / After making sure that the power is off, perform the reverse operations of the
+assembly information.
+
+UYARI
+Ürün kurulmadan önce enerjinin kesik olduğuna emin olunuz.
+. LED yüzeyine taşıma ve kurulum esnasında bastırmayınız.
+. Kullanılacak yere karar vermeden iç paketleri açmayınız.
+. Tamamen kurulum sağlanmadan şeritleri yakmayınız.
+. Doğrudan güneş yağmur, su vs. ile temas ettirmeyiniz.
+. Eğer ürünü kesecekseniz kesim yerlerini kullanınız.
+rün kurulum sırasında çift taraflı yapışkan şeriti sökmeye çalışmayınız.
+. Ürünü herhangi bir asit ya da alkalinle yapıştırmayınız.
+. Yapıştırılan su geçirmez led şeritler bir ay sonra başka bir alana yapıştırılamaz.
+10.Uygun hava şartlarında montajını yapınız.
+J1. Ürünün 5 cm'ten fazla çapta sarılması önerilmez.
+12. Katlanma çapı diğer materyal yüzey ya da duvara şeritler yerleştirildiği zaman 5 cm'den fazla olabilir.
+13. Enerji bağlantısı yapılmadan önce voltajı kontrol ediniz.
+14.Sıcaklık -20*C- * 40'*C arasında, nem oranı 9670'den fazla olmamalıdır.
+
+VEVNOYRNNS
+
+WARNINGS
+
+1. Before installing the product, make sure that the power is off.
+
+2. Do not press on the LED surface during transport and installation.
+
+3. Do not open the packages before deciding on the place to be used.
+
+4. Do not run the strips before they are fully installed.
+
+5. Do not touch to sun, rain, water etc. directiy.
+
+6. If you are going to cut the product, use the cut points.
+
+7. Do not try to remove the double -sided adhesive strip during the installation of the product.
+8. Do not stick the product with any acid or alkaline.
+
+9. The glued waterproof LED strips cannot be glued to another area after a month.
+
+10.Install the LED strips in suitable weather conditions.
+
+T. İt is not recommended to wrap the product with a diameter of more than 5 cm.
+
+12. The folding diameter can be more than 5 cm when strips are placed on the other material surface or wall.
+13. Check the voltage before making the power connection.
+
+14The temperature should be between -20*C-*40'C. Humidity should not be more than 7094.
+
+
+--- sayfa sonu ---
+
+Geleceğin Teknol! Bugündenp...
+
+CT-4566 TV RGB ŞERİT LED SETİ / LED STRIP SET
+
+NOTLAR / NOTES
+1. Kurulum yapılacağı materyal alev geciktirici olabilir. / The material to be installed can — — - —
+be flame retardant. Güç /Power | Akım / Current | Bakır tel kesit alanı / Copper wire cross section
+2.Yüksek gerilimden koruyan enerji sağlayıcılar seçilebilir. Toplam enerji 680'I 12 1 0,75
+aşmamalıdır. Dış enerji oranı 4495-105'e kadar voltaj olabilir. / Energy providers that t
+protect from high voltage can be selected. Total energy should not exceed 8094. The 24 2 1
+external energy rate can be up to 956-10594 voltage. 48 4 1,5
+3.Enerji sağlayan telin kesitsel alanı 5 metreden fazla olmaması önerilir. Kesitsel alanına 72 6 2
+telin sağlayacağı akım aşağıdaki gibi gösterilebilir. / It is recommended that the
+cross-sectional area of the energizing wire is not more than 5 meters. The current 100 9 2,5
+that the wire will provide in its cross-sectional area can be shown as follows.
+ARIZA & ÇÖZÜM TABLOSU / FAULT & SOLUTION CHART
+BELİRTİ / INDICATION OLASI NEDENLER : PROBABLE CAUSES ÇÖZÜMLER : SOLUTIONS
+1. Enerjisi gelmiyor olabilir. / It may not have energy. Muhtemel Nedenler / Probable Causes
+2. Enerjisi ters bağlanmış olabilir. / Its energy may be reversed. Direkt telle bağlayınız. / Connect with direct wire.
+
+LED çalışmıyorsa /
+1f the LED is not working
+
+Enerji sağlayıcısını değiştiriniz ya da fonksiyonlu enerji sağlayıcı kullanınız. /
+
+Change energy supply or use functional energy supply.
+
+4. Yüksek voltaj ile LED'ler zarar görmüş olabilir. / Voltaj oranı */- 965 çalışmalıdır. Zarar görmüş ledleri yenisi ile değiştiriniz./
+With high voltage, the LEDs may be damaged. Voltage ratio should work */-596. Replace damaged İeds with new ones.
+
+3. Düşük voltaj olabilir. / It could be low voltage.
+
+1. Çalışmayan LED'lere enerji gelmiyor olabilir. /
+
+The LEDs thi ki B
+e s that are not working may not be energized Enerji sağlayıcısını ve bağlantıyı kontrol ediniz. /
+
+Bazı LED'ler çalışmıyorsa / 2. Çalışmayan LED'lerin enerji bağlantıları ters bağlanmış olabilir. / Check the energy supply and connection.
+If some LEDs are not working The energy connections of the non-working leds may be reversed.
+3. Bazı LED'ler zarar görmüş olabilir. / LED'leri yenisi ile değiştiriniz. / Replace the LEDs with new ones.
+
+Some leds may be damaged.
+
+1. Enerji sağlayıcıdan çıkan enerji oranının farklı olması / Daha kalın tel ve daha fazla enerji sağlayıcı kullanılabilir. /
+
+The difference in the rate of energy coming out of the energy provider Thicker wire and more energy supply can be used.
+Enerji sağlayıcı pozisyonu LED şerite gelen voltajın 490-110 arasında olmasına
+2. Tele düşük enerjinin gelmesi / Coming of low energy to the wire dikkat edilebilir. / It can be noted that the energy supply position is between
+
+LED'lerin parlaklıkları /
+
+Brightness of LEDs 9096 - 11096 of the voltage coming to the led strip.
+n B N LED'lerin 5 metreden uzun olmamasına dikkat edilebilir. /
+3. Çok fazla ledin bağlanması / Connecting too many leds It can be noted that the LEDs are not longer than 5 meters.
+LED'ler yanıp sönerse / Enerji verici arızalı olabilir. / -
+Enerji verici değiştirilmelidir. / The energy supply must be replaced.
+If the LEDs flash The energy supply may be faulty. ! 9isi / 9Y SUPPİY p
+
+Bazı LED'ler yanıp sönerse / | Çiplerde PCB'ye temassızlık olabilir. /
+
+If some LEDs flash Chips may have no contact to PCB. Çiplerin teması sağlanmalıdır. / The contact of the chips must be ensured.
+
+UYARI
+
+1. Kendiniz ürünü sökmeye çalışmayınız, uzman bir elektrikçiye başvurunuz.
+
+2. Kurulum boyunca uzman bir elektrikçiden yardım alınız.
+
+3. Ürün 5 V ile çalışmaktadır. 5 V dışında bir voltaj ile çalıştırıldığında garanti kapsamına girmemektedir.
+
+4. Şerit LED makaraya sarılı haldeyken yanar vaziyette bırakmayınız.
+
+5. Koruma sınıfı (IP) bilgisi ürün üzerindeki etikette ve ürün kutusunda yer almaktadır. Ürün koruma sınıfının belirttiği değerlerin üzerindeki hava ve iklim koşullarında
+kullanılmamalıdır.
+
+6. Ürün temizliği yapılırken enerjinin kapalı olduğundan emin olunmalı, ürün nemden uzak tutulmalı ve kuru bir bezle temizlenmelidir.
+7. Lütfen ürünü çocukların ulaşamayacakları yerlere monte ediniz.
+
+8. Ürünün herhangi bir zarar görmemesi için ambalajın içerisinde taşınması gerekir.
+
+9. Ürün montajının kumaş, kağıt, köpük vb. yangına sebebiyet verecek malzemelerin üzerine uygulanması tehlikelidir.
+
+WARNINGS
+
+1. Donot try to disassemble the product yourself, consult a gualified electrician.
+
+2. Get help from an expert electrician during the installation.
+
+3. The product works with 5 V. İt is not covered by the warranty when operated with a voltage other than 5 V.
+
+4. Donotleave it lit while the LED strip is reeled in.
+
+5. The protection class (IP) information is on the label on the product and on the product box. The product should not be used in weather and climatic conditions above the values
+
+specified by the protection class.
+
+6. While cleaning the product, it should be ensured that the energy is turned off, the product should be kept away from moisture and cleaned with a dry cloth.
+7. Please install the product where children can not reach İt.
+
+8. İn order to avoid any damage to the product, it must be transported in its packaging.
+
+9. İt is dangerous to make product assembly on materials such as fabric, paper, foam, etc. that may cause fire.
+
+GARANTİ BELGESİ
+Garanti Şartları
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; isçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 is gününü geçemez...
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması ya da kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+WARRANTY CERTIFICATE
+Warranty conditions
+1- The warranty period starts from the invoice date of the goods andit is | year.
+2- The entire product, including all parts, is under warranty.
+3- In case the goods are found to be defective, the consumer, in Article 11 of the Law No. 6502 on the Protection of the Consumer;
+a) To have free repair.
+b) fit is not repaired, replacing it with a new product.
+4-In case of free repair of the consumer from these rights, the seller; İt is obliged to have the goods repaired without any charge under any other name, such as labor cost,
+replacement part cost or any other name.
+5- In case of malfunction of the product within the warranty period, the period of repair is added to the warranty period. The repair period of the goods cannot exceed 20 working
+
+days.
+6- Defects resulting from the use of the product contrary to the terms in the user manual are not covered by the warranty.
+
+What are the usage errors that make the defective product out of warranty?
+
+Defects arising from electricity and user usage (such as power cut, voltage fluctuation, installation of accessories that do not belong to the machine or not using mandatory
+accessories), any intervention other than authorized service in guaranteed products, damage to the label in products with warranty label, damage to the outer surface of the
+device. broken, scratched etc. Failures caused by reasons such as failures caused by use in dusty, humid, extremely hot or cold environments, flood, fire, earthauake, lightning strike,
+etc. Failures caused by natural disasters are not covered by the warranty.
+
+İTHALATÇI-İMALATÇI / /MPORTER/EXPORTER : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul-/-TÜRKİYE
+
+Servis Adresi/Service Address : Şair Ziyapaşa Cad. Lakerdacı Sk. Mimaroğlu Han. No.12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur/Compliant with WEEE Regulation
+

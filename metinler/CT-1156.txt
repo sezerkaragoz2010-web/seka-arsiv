@@ -1,0 +1,176 @@
+=== CT-1156 ===
+
+©
+Geleceğin Teknolojisi Bugünden... CAIA
+
+CT-1156 DOLUNAY FAN LED AMPUL / FAN LED BULB
+
+Değerli Müşterimiz,
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması
+gerekmektedir.
+
+Dear Customer,
+This user manual contains the necessary information to ensure maximum performance. İn order for the product warranty to be valid, all subjects in the user manual must be
+applied.
+
+TEKNİK ÖZELİKLER/TECHNICAL SPECIFICATIONS
+
+Güç/Power 172 W Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+
+Gerilim/voltage :220-240 V * Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+
+Frekans/Freguency :50-60 Hz . Iaşım_a ve nakîiyş svırasında qîusabilec_e_k_hasarîar y_ük!e_mci, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Renk Sıcaklığı/Colour Temperature :6500K * Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+
+Işık Akısı/Luminous Flux :7850 Im Matters to be considered during handling and transportation;
+
+Duy/Lampholder 1E27 * Products should be protected against direct impacts during transportation.
+
+Hg :10.0 mg * Damages that may occur during transportation and transportation are the responsibility of the contractor, loader,
+Koruma Sınıfı/Protection Class :1P20 - Class ll . ŞHVe' ar&d utserv tb tedin İt kading t id d
+
+Işık Açısı/Light Angle :180? e product must be transported in its packaging to avoid any damage.
+
+Beyan Akımı/Rated Current 10,75 A
+
+Ürün Ömrü/Life time 115000 saat/hours
+
+Çalışma Sıcaklığı/Working Temperature : -209C-4*40*C KULLANIM ALANLARI FIELDS OF USAGE
+
+CRI (Ra) 1>80 Evler - Oteller - Lokantalar - Mağazalar - Kafeler Houses - Hotels - Restaurants - Stores - Cafes
+
+KUMANDA KONTROL İŞLEVLERİ / CONTROLLER FUNCTIONS
+
+Fan (On/Off1
+Fan (Açık/Kapalı)
+
+Power TOn/Off1
+
+)
+Güç (Açık/Kapalı) KU Na
+
+“0REnkSicaklığı 6> S SST BİLACK/apall
+şık TAçık/Kapalı
+Brightness (- IWhite/Warmwhite/Warm1
+gydmhk 8 Ko ’ Beyaz/Gün ışığı/llık ışık
+Color temperature (-) - Brightness (*)
+Renk sıcaklığı (-) CCT- Aydınlık (4)
+
+——0 Wind (21 speed
+Fan hızı (21
+
+Wind (11) speed ta
+Fan hızı (1) k'
+Wind (31 speed
+Fan hızı (31 | K*/ N
+Timer (2H _*_XŞD —— TimertâHl
+Zamanlama (2Saat| VH Zamanlama (4Saat)|
+
+KURULUM ŞEKLİ / INSTALLATION METHOD
+
+1- Sabitleme aparatını lamba gövdesine yerleştirin / Put the anti falling component onto the lamp body.
+2-Lambayı tabana çevirerek sabitleyin / Twist and fix the lamp on the base.
+
+3-Vidalarla sabitleyin. Kurulum bittikten sonra elektriği açınız / Fix with screws.
+
+KULLANIM TALİMATI
+
+* Ürünün herhangi bir zarar görmemesi için kutusu içerisinde taşınması gerekmektedir.
+
+* Ani durma koruması olsa bile, yaralanma riskini azaltmak için, Lütfen parmaklarınızı veya başka şeyleri çalışan fan kanatlarının içine sokmayın.
+
+* Günlük temizlik için, aşındırıcı kimyasallar kullanmadan yüzeyi silmek için nemli bir bez kullanabilirsiniz.
+
+* Fan kanatları doğrudan sökülebilir, temizlik ve depolama için uygundur
+
+Ürünün montajını yapmadan önce enerjiyi kapatmayı unutmayınız.
+
+ünün sökülmesi veya tamir edilmesi gereken durumlarda enerjinin kapalı olduğundan emin olunuz.
+
+ünü 220-240 V ve 50-60 Hz değerlerinin altında veya üzerinde bir voltaj ve frekansla çalıştırmayınız.
+
+Kolrluma sınıfı W(KIİP) bilgisi ürün üzerindeki etikette ve ürün kutusunda yer almaktadır. Ürün koruma sınıfının belirttiği değerlerin üzerindeki hava ve iklim koşullarında
+ullanılmamalıdır.
+
+ün temizliği yapılırken enerjinin kapalı olduğundan emin olunmalıdır. Temizleme esnasında korozyon içermeyen maddeler kullanınız. Su ve ıslak bezle temizlik yapmayınız.
+Üünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugünden... CAIA
+
+CT-1156 DOLUNAY FAN LED AMPUL / FAN LED BULB
+
+INSTRUCTION MANUAL
+
+* The product must be transported in its box to avoid any damage.
+
+* Even if has a sudden stop protection , To reduce the risk of injury , Please do not put fingers or other things into the working fan blades.
+
+* For daily cleaning, you can use a damp cloth to wipe the surface without using corrosive chemicals.
+
+* The fan blades can be disassembled directiy, convenient for cleading and storage
+
+* Do not forget to turn off the power before assembling the product.
+
+* İn cases where the product needs to be disassembled or repaired, make sure that the power is turned off.
+
+* Do not operate the product with a voltage and freguency below or above 220-240 V and 50-60 Hz.
+
+. lîrotection class (IP) information is on the label and the box. The product should not be used in weather and climatic conditions above the values specified by the protection
+class.
+
+* While cleaning the product, it should be ensured that the energy is turned off. Use corrosion-free materials during cleaning. Do not clean with water and wet cloth.
+
+* Keep the product out of reach of children and in the product box.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; isçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 is gününü geçemez...
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması ya da kullanılması zorunlu olan aksesuarların
+
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+WARRANTY CERTIFICATE
+
+Warranty conditions
+1- The warranty period starts from the invoice date of the goods andit is | year.
+2- The entire product, including all parts, is under warranty.
+3- In case the goods are found to be defective, the consumer, in Article 11 of the Law No. 6502 on the Protection of the Consumer;
+a) To have free repair.
+b) fit is not repaired, replacing it with a new product.
+4- In case of free repair of the consumer from these rights, the seller; It is obliged to have the goods repaired without any charge under any other name, such as labor cost,
+replacement part cost or any other name.
+â- In case of malfunction of the product within the warranty period, the period of repair is added to the warranty period. The repair period of the goods cannot exceed 20 working
+lays.
+6- Defects resulting from the use of the product contrary to the terms in the user manual are not covered by the warranty.
+
+What are the usage errors that make the defective product out of warranty?
+
+Defects arising from electricity and user usage (such as power cut, voltage fluctuation, installation of accessories that do not belong to the machine or not using mandatory
+accessories), any intervention other than authorized service in guaranteed products, damage to the label in products with warranty label, damage to the outer surface of the
+device. broken, scratched etc. Failures caused by reasons such as failures caused by use in dusty, humid, extremely hot or cold environments, flood, fire, earthauake, lightning strike,
+etc. Failures caused by natural disasters are not covered by the warranty.
+
+Servis Adresi/Service Address : Şair Ziyapaşa Cad. Lakerdacı Sk. Mimaroğlu Han. No.12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur/Compliant with WEEE Regulation C €
+
+İTHALATÇI-İMALATÇI / /MPORTER/EXPORTER : UĞUR AYDINLATMA SAN. VE TİC, LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul-/-TÜRKİYE

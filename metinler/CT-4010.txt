@@ -1,0 +1,128 @@
+=== CT-4010 ===
+
+©
+Geleceğin Teknolojisi Bugündenp... CAIA
+
+AKILLI PRİZ / CT-4010
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için bu kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+
+Gerilim :230-240 VAC Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+
+Frekans :50Hz Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+
+LED Beyan Akımı 116 A Max 3680 W Hrunundhkerbhanglı< %r zkarar gomüemesı ıcııj[ ambalajıınk wlîınde taşınması gerekir.
+
+Halojen Beyan Akımı "Z A Max 690W rünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+
+Koruma Sınıfı :1P20-Class | |
+
+Çalışma Sıcaklığı 1-20 C-4*50 C
+
+WI-FI Standardı 180271 b/g/n KULLANIM ALANLARI
+
+WIİ-FI Kanalı 114402.46 Hz
+
+Beklemede Güç Tüketimi <W Ev, Ofis, Okul, Hastane, Restorant vs. her türlü iç mekan yaşam alanında ve her türlü elektronik eşya ile kullanıma uygundur.
+
+10S 8.0 VE ANDROID 4.4 ÜZERİ ÇALIŞMAKTADIR.
+Ürünün ana özelliği; cep telefonuna yüklenen uygulama üzerinden ürünün açılıp kapanması, ve zamanlamasının Wi-FI bağlantısı üzerinden kontrol edilmesidir.
+
+KURULUM / KULLANIM TALİMATI
+
+Ürünü kullanmaya başlamadan önce, IOS ve ANDROID uygulaması veya ürünün renkli kutusu üzerinde bulunan GR CODE üzerinden TUYA smart veye SMART life uygunlamasını akıllı cep telefonunuza indiriniz.
+Telefonunuzun Wi-FI bağlantısının olduğundan emin olduktan sonra ürünü bir duvar prizine takınız.
+
+Ürünün üzerinde bulunan gösterge ışığı yanıp sönene kadar düğmeyi 3sn'den fazla basılı tutunuz.
+
+Cep telefonunuza indirmiş olduğunuz uygulamayı açınız ve bu süre de ürün üzerinde yer alan düğme hızlı şekilde yanıp sönmeye başladığı zaman telefonunuzdaki ağı yapılandırdığınızda telefonunuza yüklemiş olduğunuz TUYA Aplikasyonu
+ürünü tanımaya başlayacaktır. Başarıyla bağlandıktan sonra uygulamayı kullanarak dünyanın her yerinden WI-FI bağlantısı ile ürünü açıp kapatabilir; zaman ve program ayarı yapabilirsiniz.
+
+Eğer çalışmazsa aynı işlemleri 2 kez olacak şekilde yeniden deneyiniz.
+
+CATA CT-4010 AKILLIPRİZ(16 A... — Z CATA CT-4010 AKILLIPRİZ (16 A...
+
+12:32'”
+
+Tue
+
+Switch 1: OFF
+
+12:36'”
+
+Tue
+
+Switch 1: ON
+
+SES KONTROL : Ürün Amazon Alexa ve Google Assistant uygulaması ile sesli komutla açılıp kapatılabilir.
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+ü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+ünüzü teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+ün barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda ürününüz garanti kapsamına girmemektedir.
+ün kullanım amaçları haricinde kullanılmamalıdır.
+Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+ün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz. N
+üç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir. Ürünü yerleştireceğiniz yerde ürüne, hasar verebilecek çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz. Uyuşmazlık durumunda meydana gelebilecek arızalardan satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+* Ürünü elektrik kaçağı olabilecek yerlerde kullanmayınız.
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+
+DEMONTAJ BİLGİSİ
+
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız.
+
+ÖNEMLİ UYARILAR
+
+* Ürün tamamen duvar prizine takılı olmalıdır.
+
+* Priz deliğine herhangi bir yabancı cisim sokmayınız.
+
+* Radio freankası bozuksa ürünün çalışmasını olumsuz etkileyebilir.
+
+* Sadece iç mekan kullanımı için uygundur.
+
+* Üründe meydana gelen herhangi bir arıza durumunda uzman yetkili servisimizle irtibata geçiniz.
+
+* Yetkili teknik servisimiz dışında ürüne kimsenin müdahale etmesine izin vermeyiniz. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+* Bu armatürünün harici bükülgen kablo veya kordonu hasarlanırsa; bir tehlikeden kaçınmak için yetkili kişi tarafından değiştirilmesi gerekir.
+
+ün çalışır durumdayken yüzeyi sıcak olabilir. Ürüne enerjisi kesilip, soğumadan dokunulmamalıdır. Ürün çalışır durumdayken direkt olarak bakmayınız.
+yüzeyini alkol, benzin gibi yanıcı maddelerle temizlemeyiniz.
+
+rünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+* Islak ve nemli alanlarda ürünü kullanmayınız.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez...
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir
+müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın,
+deprem, yıldırım düşmesi vb. doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur.
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE

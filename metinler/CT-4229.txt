@@ -1,0 +1,143 @@
+=== CT-4229 ===
+
+Geleceğin Teknolojisi Bugünden...
+
+CT-4229 ŞARJLI LED AMPUL / RECHARGEABLE LED BULB
+
+Değerli Müşterimiz, .
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması
+için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+Dear Customer,
+
+This user manual contains the necessary information to ensure maximum performance. İn order for the product warranty to
+be valid, all subjects in the user manual must be applied.
+TEKNİK ÖZELİKLER/TECHNICAL SPECIFICATIONS
+
+Ürün dimmerle kullanılamaz. / The product cannot be used with a dimmer.
+
+Güç/Power :9W Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+Gerilim/Voltage 1220-240 V * Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Frekans/Freguency :50-60 Hz * Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici,
+Fîl;î'cîtw*9'/C0*0"FTıempe'atU"e : ğğg? K alıcı ve kullanıcı sorumluluğundadır.
+işık Akısı/Luminous Flux : im .Ü bi ( N
+Duy/Lampholder .B7 gğı:enl:p herhangi bir zarar görmemesi için ambalajın içinde taşınması
+Hg :0.0 mg
+Koruma Sınıfı/Protection Class :1P20 - Class ll . . . .
+Işık Açısı/Beam Angle :180? Matters to be considered during handling and transportation;
+Beyan Akımı/Rated Current 1007 A * Products should be protected against direct impacts during
+Ürün Ömrü/Lifetime 115000 s/h transportation.
+Çalışma Sıcaklığı/Working Temperature : -20'C- * 40'C | * Damages that may occur during transportation and transportation are
+Başlama Süresi/Starting Time 1<0.5 sn/sec the responsibility of the contractor, loader, buyer and user.
+CRI (Ra) :280 * The product must be transported in its packaging to avoid any damage.
+KULLANIM ALANLARI FIELDS OF USAGE
+Evler - Oteller - Lokantalar - Mağazalar - Kafeler Houses - Hotels - Restaurants - Stores - Cafes
+
+KULLANIM TALİMATI
+Ürünün herhangi bir zarar görmemesi için kutusu içerisinde taşınması gerekmektedir.
+
+* Ürünün montajını yapmadan önce enerjiyi kapatmayı unutmayınız.
+
+* Ürünün sökülmesi veya tamir edilmesi gereken durumlarda enerjinin kapalı olduğundan emin olunuz.
+
+* Ürünü 220-240 V ve 50-60 Hz değerlerinin altında veya üzerinde bir voltaj ve frekansla çalıştırmayınız.
+
+* Koruma sınıfı (IP) bilgisi ürün üzerindeki etikette ve ürün kutusunda yer almaktadır. Ürün koruma sınıfının belirttiği
+değerlerin üzerindeki hava ve iklim koşullarında kullanılmamalıdır.
+
+* Ürün temizliği yapılırken enerjinin kapalı olduğundan emin olunmalıdır. Temizleme esnasında korozyon içermeyen
+maddeler kullanınız. Su ve ıslak bezle temizlik yapmayınız.
+
+* Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+IİNSTRUCTION MANUAL
+The product must be transported in its box to avoid any damage.
+
+* Do not forget to turn off the power before assembling the product.
+
+* Iİn cases where the product needs to be disassembled or repaired, make sure that the power is turned off.
+
+* Do not operate the product with a voltage and freguency below or above 220-240 V and 50-60 Hz.
+
+* Protection class (IP) information is on the label and the box. The product should not be used in weather and climatic
+conditions above the values specified by the protection class.
+
+* While cleaning the product, it should be ensured that the energy is turned off. Use corrosion-free materials during
+cleaning. Do not clean with water and wet cloth.
+
+* Keep the product out of reach of children and in the product box.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci
+Maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; isçilik masrafı, değiştirilen parça bedeli ya da başka herhangi
+bir ad altında hiçbir ücret talep etmeksizin malın onarımını yaptırmakla yükümlüdür.
+
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20
+is gününü geçemez.
+
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır
+
+
+--- sayfa sonu ---
+
+Geleceğin Teknolojisi Bugünden...
+
+CT-4229 ŞARJLI LED AMPUL / RECHARGEABLE LED BULB
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan
+aksesuar takılması ya da kullanılması zorunlu olan aksesuarların kullanılmaması gibi), garantili ürünlerde yetkili servis dışında
+herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan kırık,
+çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan
+arızalar, sel, yangın, deprem, yıldırım düşmesi vb. doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+WARRANTY CERTIFICATE
+
+Warranty conditions
+
+1- The warranty period starts from the invoice date of the goods andlit is | year.
+
+2- The entire product, including all parts, is under warranty.
+
+3- In case the goods are found to be defective, the consumer, in Article 11 of the Law No. 6502 on the Protection of the
+Consumer;
+a) To have free repair.
+b) If it is not repaired, replacing it with a new product.
+
+4-In case of free repair of the consumer from these rights, the seller; It is obliged to have the goods repaired without any
+charge under any other name, such as labor cost, replacement part cost or any other name.
+
+5- In case of malfunction of the product within the warranty period, the period of repair is added to the warranty period. The
+repair period of the goods cannot exceed 20 working days.
+
+6- Defects resulting from the use of the product contrary to the terms in the user manual are not covered by the warranty.
+
+What are the usage errors that make the defective product out of warranty?
+
+Defects arising from electricity and user usage (such as power cut, voltage fluctuation, installation of accessories that do
+not belong to the machine or not using mandatory accessories), any intervention other than authorized service in guaranteed
+products, damage to the label in products with warranty label, damage to the outer surface of the device. broken, scratched
+etc. Failures caused by reasons such as failures caused by use in dusty, humid, extremely hot or cold environments, flood, fire,
+earthguake, lightning strike, etc. Failures caused by natural disasters are not covered by the warranty.
+
+Servis Adresi/Service Address : Şair Ziyapaşa Cad. Lakerdacı Sk. Mimaroğlu Han. No.12/A Şişhane Beyoğlu/İSTANBUL
+
+C€
+
+İTHALATÇI-İMALATÇI//MPORTER-EXPORTER
+UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul/TÜRKİYE
+
+AEEE Yönetmeliğine Uygundur./Compliant with WEEE Regulation.
+

@@ -1,0 +1,90 @@
+=== CT-2553 ===
+
+Geleceğin Teknolojisi Bugünden...
+
+FİŞLİ ADAPTÖR / CT-2553
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+
+Güç Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+
+Gerilim Giriş Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Gerilim Çıkış Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+
+Frekans
+
+Koruma Sınıfı
+
+Beyan Akımı KULLANIM ALANLARI
+
+Ürün Ömrü
+
+Çalışma Sıcaklığı : -20 *C-*40 *C Evler - Mağazalar - Ofisler
+
+KULLANIM TALİMATI
+
+Adaptörün DC kablosunu ekipmana bağlamadan önce adaptörün AC güç kablosunun bağlantısını kesip ekipmanın ve adaptörün voltaj ve akım değerlerinin doğruluğunu kontrol ediniz.
+Adaptör ve güç kablosunun bağlantısının ve DC fişinin bağlantısının doğru bir şekilde yapıldığından emin olunuz.
+
+Güç kablosunu darbelere ve ezilmelere karşı koruyunuz.
+
+Aşırı isınmayı önlemek için güç kaynağının yeterli şekilde soğutmasının yapıldığından emin olunuz. Güç kaynağı herhangi ısı kaynağı oluşturabilecek cihazdan 10-15 cm uzak olmalıdır.
+Eğer adaptörün bağlı olduğu elektrikli ekipman uzun süredir kullanılmayacak ise herhangi bir ani voltaj yükselmesi veya şimşek çarpması sonucu oluşabilecek hasarlardan kaçınmak
+
+için adaptörün ve adaptör ile ekipmanın bağlantısını kesiniz.
+
+UYARI
+
+Kullanıcı ve ürün sağlığı açısından nitelikli teknisyen haricinde kendiniz açmayınız.
+
+Ürünler herhangi bir elektrik çarpması veya yangın riskinden kaçınmak için yabancı maddelerden ve sıvılardan uzak tutulmalıdır.
+Yanlış DC fişini kullanmak yada bu fişi zorlamak elektronik cihazda hasara sebep olabilir.
+
+Adaptör düzgün bir zemine konumlandırılmalıdır düşme ve çarpma gibi durumlarda ürün zarar görebilir.
+
+Lütfen adaptörü yüksek nemli ortamlardan ve suya yakın ortamlarda çalıştırmayınız.
+
+Lütfen adaptörü yüksek sıcaklık olan ortamlara ve ısı kaynağının yakın ortamlarda çalıştırmayınız.
+
+Çıkış akımı ve çıkış gücü, kutu üzerinde belirtilen nominal değerleri aşmamalıdır.
+
+Ürünü temizlemeden önce şebeke ile bağlantısını kesiniz. Sadece nemli bez ile temizleyiniz. Spreyli veya sıvı temizleyici kullanmayınız.
+Ömrü tükenmiş ve çalışmayan ürününüzü çöpe atmak yerine yetkili yerel bir geri dönüşüm firmasına veriniz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez...
+
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan
+aksesuarların kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış
+yüzeyinde oluşan kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın,
+deprem, yıldırım düşmesi vb. doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+air Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC, LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+

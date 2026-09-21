@@ -1,0 +1,178 @@
+=== CT-4058 ===
+
+Geleceğin Teknolojisi Bugünden...
+
+CT-4058 KUMANDALI LED AMPUL / BULB
+
+Değerli Müşterimiz, N
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması
+gerekmektedir.
+
+Dear Customer,
+This user manual contains the necessary information to ensure maximum performance. İn order for the product warranty to be valid, all subjects in the user manual must be
+applied.
+
+TEKNİK ÖZELİKLER/TECHNICAL SPECIFICATIONS
+
+Güç/Power :9W
+
+Gerilim/Voltage 1220-240 V
+
+Frekans/Freguency 150-60 Hz Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+
+Renk Sıcaklığı/Color Temperature 16500K * Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+
+Işık Akısı/Luminous Flux :8501m Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Duy/Lampholder :E27 * Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+
+Hg 100 mg
+
+: Matters to be considered during handling and transportation;
+
+Koruma Sınıfı/Protection Class :1P20 - Class ll * Products should be protected against direct impacts during transportation.
+
+Işık Açısı/Beam Angle 1180? * Damages that may occur during transportation and transportation are the responsibility of the contractor, loader,
+Beyan Akımı/Rated Current :OOZ A buyer and user. . . :
+
+Ürün Ömrü/Lifetime :15000 saat/hours | * The product must be transported in its packaging to avoid any damage.
+
+Çalışma Sıcaklığı/Working Temperature : -207C-*40'C
+
+Başlama Süresi/Starting Time 1<0,5 sn/sec KULLANIM ALANLARI FIELDS OF USAGE
+CRI (Ra) :280 Evler - İşyerleri - Ofisler - Oteller - Restoranlar-Kafeler Houses - Workplaces - Offices - Hotels - Restaurants-Cafes
+
+AÇIKLAMA /EXPLANATION
+
+* RGB Kumanda modülü gelişmiş mikro kontrol ünitesi kumandasıdır.
+* Işık kaynağı LED olan çeşitli lambaları kumanda etmek için kullanılır.
+* Toplamda 20 farklı modu bulunmaktadır.
+
+* Kumanda Ölçüsü; 5.2 x 8.5 cm'dir.
+
+* Algılama mesafesi ise yaklaşık 10 metredir.
+
+KONTROL İŞLEVLERİ / CONTROL FUNCTIONS
+
+IŞIĞI AÇMA /OPEN THE LİGHT
+IŞIĞI KISMA/ DIMMING THE LİGHT
+
+AÇMA / ON
+KAPAMA / OFF
+
+7 RENK ÇAKAR / 7 COLORS FLASHING
+
+RENK BUTONLARI / COLOR BUTTON
+
+ÇAKAR ŞEKLİNDE / LIKE FLASHING
+
+OTOMATİK GEÇİŞ / AUTOMATIC SWITCH
+
+3 RENK OTOMATİK GEÇİŞ / 3 COLOURS AUTOMATIC SWITCH
+
+ı 9
+
+STANDART RENK DEĞİŞİKLİKLERİ / STANDARD COLOR CHANGES
+
+PARLAKLIK * (TOPLAM 16) PARLAKLIK - (TOPLAM 16) KAPAMA AÇMA
+
+BRIGHTNESS * (TOTAL 16) BRIGHTNESS - (TOTAL 16) CLOSE OPEN
+
+SABİT KIRMIZI / FIXED RED SABİT YEŞİL / FIXED GREEN SABİT MAVİ / FIXED BLUE SABİT GÜNIŞIĞI / FIXED WARMWHITE
+
+SABİT TURUNCU / FIXED ORANGE SABİT AÇIK YEŞİL / FIXED LIGHT GREEN | SABİT PEMBE / FIXED PINK 7 RENK ÇAKAR / 7 COLORS FLASHING
+
+SABİT KOYU SARI / FIXED DARK YELLOW | SABİT CAMGÖBEĞİ / FIXED CYAN SABİT AÇIK PEMBE / FIXED LİGHT PINK | ÇAKAR ŞEKLİNDE / LİKE THE FLASHING
+
+SABİT SARI / FIXED YELLOW SABİT AÇIK MAVİ / FIXEDLIGHTBLUE | SABİT KOYU PEMBE / FIXED DARK PINK |7 RENK OTOMATİK GEÇİŞ / 7 COLORS AUTOMATİC SWİTCH
+SABİT AÇIK SARI / LİGHT YELLOW SABİT GÖK MAVİSİ /FIXED SKY BLUE SABİT MOR / FIXED PURPLE 3 ANA RENK ÇAKAR / 3 MAIN COLORS FLASH
+
+KULLANIM TALİMATI
+
+« Ürünün montajını yapmadan önce enerjiyi kapatmayı unutmayınız.
+
+ünün sökülmesi veya tamir edilmesi gereken durumlarda enerjinin kapalı olduğundan emin olunuz.
+
+irünü duy kısmından çıplak ve ıslak elle tutmayınız.
+
+* Ürünü 220-240 V ve 50-60 Hz değerlerinin altında veya üzerinde bir voltaj ve frekansla çalıştırmayınız.
+
+* Koruma sınıfı (IP) bilgisi ürün üzerindeki etikette ve ürün kutusunda yer almaktadır. Ürün koruma sınıfının belirttiği değerlerin üzerindeki hava ve iklim koşullarında
+kullanılmamalıdır.
+
+Ürün temizliği yapılırken enerjinin kapalı olduğundan emin olunmalıdır. Temizleme esnasında korozyon içermeyen maddeler kullanınız. Su ve ıslak bezle temizlik yapmayınız.
+ünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+* Ürünün herhangi bir zarar görmemesi için kutusu içerisinde taşınmalıdır.
+
+INSTRUCTION MANUAL
+
+* Do not forget to turn off the power before assembling the product.
+
+* In cases where the product needs to be disassembled or repaired, make sure that the power is turned off.
+
+* Do not handle the product with bare and wet hands by the socket part.
+
+* Do not operate the product with a voltage and freguency below or above 220-240 V and 50-60 Hz.
+
+* Protection class (IP) information is on the label and the box. The product should not be used in weather and climatic conditions above the values specified by the protection
+class.
+
+* While cleaning the product, it should be ensured that the energy is turned off. Use corrosion-free materials during cleaning. Do not clean with water and wet cloth.
+
+* Keep the product out of reach of children and in the product box.
+
+* The product should be transported in its box to avoid any damage.
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+CT-4058 KUMANDALI LED AMPUL / BULB
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; isçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 is gününü geçemez...
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması ya da kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+WARRANTY CERTIİFİCATE
+
+Warranty conditions
+1- The warranty period starts from the invoice date of the goods andit is | year.
+2- The entire product, including all parts, is under warranty.
+3- In case the goods are found to be defective, the consumer, in Article 11 of the Law No. 6502 on the Protection of the Consumer;
+a) To have free repair.
+b) fit is not repaired, replacing it with a new product.
+4-In case of free repair of the consumer from these rights, the seller; It is obliged to have the goods repaired without any charge under any other name, such as labor cost,
+replacement part cost or any other name.
+5- In case of malfunction of the product within the warranty period, the period of repair is added to the warranty period. The repair period of the goods cannot exceed 20 working
+
+lays.
+6- Defects resulting from the use of the product contrary to the terms in the user manual are not covered by the warranty.
+What are the usage errors that make the defective product out of warranty?
+Defects arising from electricity and user usage (such as power cut, voltage fluctuation, installation of accessories that do not belong to the machine or not using mandatory
+accessories), any intervention other than authorized service in guaranteed products, damage to the label in products with warranty label, damage to the outer surface of the
+device. broken, scratched etc. Failures caused by reasons such as failures caused by use in dusty, humid, extremely hot or cold environments, flood, fire, earthauake, lightning strike,
+etc. Failures caused by natural disasters are not covered by the warranty.
+
+Servis Adresi/Service Address : Şair Ziyapaşa Cad. Lakerdacı Sk. Mimaroğlu Han. No.12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur/Compliant with WEEE Regulation C €
+
+İTHALATÇI-İMALATÇI / /MPORTER/EXPORTER : UĞUR AYDINLATMA SAN. VE TİC, LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul-/-TÜRKİYE

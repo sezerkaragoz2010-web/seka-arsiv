@@ -1,0 +1,520 @@
+=== CT-2469 ===
+
+©
+Geleceğin Teknolojisi Bugünden... CAIA
+
+LEDLİ BANT ARMATÜR / CT-2466
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+Ürün dimmerle kullanılamaz. Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Güç :SW Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Gerilim 1220-240 V Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+Frekans :50-60 Hz
+Renk Sıcaklığı — : 6400 K - 3200K
+Işık Akısı 1450 1m - 4301m
+Lümen Verimliliği : 90 Im / W - 86 Im / W KULLANIM ALANLARI
+Koruma Sınıfı :1P20-Class ll
+Işık Açısı :180* Oteller
+Beyan Akımı :S5SS5mA , Ofisler
+Çalışma Sıcaklığı : -15 C-*55 C Restoranlar
+Ürün Ömrü :15000 saat Hastaneler
+CRI (Ra) 1>80 Evler
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+. Elekmk baglamısım kesiniz./kapatınız.
+
+ü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+
+teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+
+rününüzün orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+
+n barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda
+ürününüz garanti kapsamına girmemektedir.
+
+* Ürün kullanım adan haricinde kullanılmamalıdır.
+
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+
+* Güç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+
+* Ürün montajına başlamadan önce kabloların, armatürün dış çeperlerinin hasarlı olmadığından emin olunuz.. Armatürü yerleştireceğiniz yerde armatüre, hasar verebilecek
+çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz. Uyuşmazlık durumunda meydana gelebilecek arızalardan
+satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+
+MONTAJ ŞEKLİ
+Şekil (1) E Şekil(2) —- K
+1. Kuruluma başlamadan önce elektriği kapatınız. (' E N
+2. Klipsleri vida yardımıyla tavana veya duvara sabitleyiniz. (Şekil 1) »
+3. Armatürü elektriğe bağladıktan sonra uygun bir şekilde
+duvara veya tavana monte ediniz. (Şekil 2)
+4. Kurulum bittikten sonra elektriği açabilirsiniz.
+
+DEMONTAJ BİLGİSİ TTTTTTTTTTTTTTTTTTITTTTTTTTT
+
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız.
+
+UYARI
+Bakıma başlamadan elektrik enerjisinin kesik olduğundan emin olun. Değiştirilemez kontrol donanımı
+1. Güvenli bir şekilde tesisat kurulumu yapıldığı zaman tutuşma, elektrik çarpması gibi şüpheler oluşmamalıdır.
+
+2. Elektiriği kapamadan ürün temizliği yapılmamalıdır.
+
+3.En uygun voltaj düzeyi 220-240 V 96 10 Tol. Dış mekan kullanımına uygun değildir. Standart voltaj aşılmamalıdır.
+4.Enerji kesildikten sonra soğumaya bırakılmalı daha sonra kurulum ve değişiklikler yapılmalıdır.
+
+5.Cam kırıldığında elektrik enerjisini kesiniz.
+
+6. Dışarıda ve nemli ortamlarda kullanmayınız.
+
+7. Düzgün bir duvara veya tavana monte ettiğinizden emin olunuz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez...
+
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugünden... CAIA
+
+LEDLİ BANT ARMATÜR / CT-2467
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+Ürün dimmerle kullanılamaz. Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Güç 1OW Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Gerilim 1220-240 V Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+Frekans :50-60 Hz
+Renk Sıcaklığı — : 6400 K - 3200K
+Işık Akısı 1970 Im - 9501m
+Lümen Verimliliği : 97 Im / W - 95 lm / W KULLANIM ALANLARI
+Koruma Sınıfı :1P20-Class II
+Işık Açısı :180* Oteller
+Beyan Akımı :1OSMA , Ofisler
+Çalışma Sıcaklığı : -15 C-*55 C Restoranlar
+Ürün Ömrü :15000 saat Hastaneler
+CRI (Ra) 1>80 Evler
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+. Elekmk baglamısım kesiniz./kapatınız.
+
+ü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+
+teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+
+rününüzün orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+
+n barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda
+ürününüz garanti kapsamına girmemektedir.
+
+* Ürün kullanım adan haricinde kullanılmamalıdır.
+
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+
+* Güç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+
+* Ürün montajına başlamadan önce kabloların, armatürün dış çeperlerinin hasarlı olmadığından emin olunuz.. Armatürü yerleştireceğiniz yerde armatüre, hasar verebilecek
+çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz. Uyuşmazlık durumunda meydana gelebilecek arızalardan
+satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+
+MONTAJ ŞEKLİ
+Şekil (1) E Şekil (2)
+
+1. Kuruluma başlamadan önce elektriği kapatınız.
+2. Klipsleri vida yardımıyla tavana veya duvara sabitleyiniz. (Şekil 1)
+3. Armatürü elektriğe bağladıktan sonra uygun bir şekilde
+duvara veya tavana monte ediniz. (Şekil 2)
+4. Kurulum bittikten sonra elektriği açabilirsiniz.
+
+DEMONTA! BİLGİSİ TATATTTTTTTTTTTTTTTTTTT
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız.
+
+UYARI
+Bakıma başlamadan elektrik enerjisinin kesik olduğundan emin olun. Değiştirilemez kontrol donanımı
+1. Güvenli bir şekilde tesisat kurulumu yapıldığı zaman tutuşma, elektrik çarpması gibi şüpheler oluşmamalıdır.
+
+2. Elektiriği kapamadan ürün temizliği yapılmamalıdır.
+
+3.En uygun voltaj düzeyi 220-240 V 96 10 Tol. Dış mekan kullanımına uygun değildir. Standart voltaj aşılmamalıdır.
+4.Enerji kesildikten sonra soğumaya bırakılmalı daha sonra kurulum ve değişiklikler yapılmalıdır.
+
+5.Cam kırıldığında elektrik enerjisini kesiniz.
+
+6. Dışarıda ve nemli ortamlarda kullanmayınız.
+
+7. Düzgün bir duvara veya tavana monte ettiğinizden emin olunuz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez...
+
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugündenp... CAIA
+
+LEDLİ BANT ARMATÜR / CT-2468
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+Ürün dimmerle kullanılamaz. Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Güç ISW Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Gerilim 1220-240 V Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+Frekans :50-60 Hz
+Renk Sıcaklığı — : 6400 K - 3200 K
+Işık Akısı 11500 Im - 1490 lm
+Lümen Verimliliği : 100 Im / W - 99.33 Im / W KULLANIM ALANLARI
+Koruma Sınıfı : 1P20-Class ll
+Işık Açısı :180* Oteller
+Beyan Akımı :1OS5MA , Ofisler
+Çalışma Sıcaklığı : -15 C-*55 C Restoranlar
+Ürün Ömrü :15000 saat Hastaneler
+CRI (Ra) :1>80 Evler
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+. Elekmk baglamısım kesiniz./kapatınız.
+
+ü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+
+teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+
+rününüzün orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+
+n barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda
+ürününüz garanti kapsamına girmemektedir.
+
+* Ürün kullanım adan haricinde kullanılmamalıdır.
+
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+
+* Güç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+
+* Ürün montajına başlamadan önce kabloların, armatürün dış çeperlerinin hasarlı olmadığından emin olunuz.. Armatürü yerleştireceğiniz yerde armatüre, hasar verebilecek
+çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz. Uyuşmazlık durumunda meydana gelebilecek arızalardan
+satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+
+MONTAJ ŞEKLİ
+Şekil (1) E Şekil(2) —- K
+1. Kuruluma başlamadan önce elektriği kapatınız. (' E N
+2. Klipsleri vida yardımıyla tavana veya duvara sabitleyiniz. (Şekil 1) »
+3. Armatürü elektriğe bağladıktan sonra uygun bir şekilde
+duvara veya tavana monte ediniz. (Şekil 2)
+4. Kurulum bittikten sonra elektriği açabilirsiniz.
+
+Değiştirilemez ışık kaynağı
+
+DEMONTAJ BİLGİSİ TTTTTTTTTTTTTTTTTTITTTTTTTTT
+
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız.
+
+UYARI
+| MA n < . Değiştirilemez kontrol donanımı
+Bakıma başlamadan elektrik enerjisinin kesik olduğundan emin olun.
+
+1. Güvenli bir şekilde tesisat kurulumu yapıldığı zaman tutuşma, elektrik çarpması gibi şüpheler oluşmamalıdır.
+
+2. Elektiriği klapamadan ürün temizliği yapılmamalıdır.
+
+3.En uygun voltaj düzeyi 220-240 V 96 10 Tol. Dış mekan kullanımına uygun değildir. Standart voltaj aşılmamalıdır.
+4.Enerji kesildikten sonra soğumaya bırakılmalı daha sonra kurulum ve değişiklikler yapılmalıdır.
+
+5.Cam kırıldığında elektrik enerjisini kesiniz.
+
+6. Dışarıda ve nemli ortamlarda kullanmayınız.
+
+7. Düzgün bir duvara veya tavana monte ettiğinizden emin olunuz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve | yıldır.
+
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez...
+
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugünden... CAIA
+
+LEDLİ BANT ARMATÜR / CT-2469
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+Ürün dimmerle kullanılamaz. Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Güç 120W Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Gerilim 1220-240 V Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+Frekans :50-60 Hz
+Renk Sıcaklığı — : 6400 K - 3200K
+İşik Akısı 12100 Im - 2050 1m
+Lümen Verimliliği : 105 Im / W - 102.5 Im / W KULLANIM ALANLARI
+Koruma Sınıfı :1P20-Class II
+Işık Açısı :180* Oteller
+Beyan Akımı :1OSMA , Ofisler
+Çalışma Sıcaklığı : -15 C-*55 C Restoranlar
+Ürün Ömrü :15000 saat Hastaneler
+CRI (Ra) :1>80 Evler
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+. Elekmk baglamısım kesiniz./kapatınız.
+
+ü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+
+teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+
+rününüzün orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+
+n barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda
+ürününüz garanti kapsamına girmemektedir.
+
+* Ürün kullanım adan haricinde kullanılmamalıdır.
+
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+
+* Güç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+
+* Ürün montajına başlamadan önce kabloların, armatürün dış çeperlerinin hasarlı olmadığından emin olunuz.. Armatürü yerleştireceğiniz yerde armatüre, hasar verebilecek
+çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz. Uyuşmazlık durumunda meydana gelebilecek arızalardan
+satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+
+MONTAJ ŞEKLİ
+Şekil (1) E Şekil(2) —- K
+1. Kuruluma başlamadan önce elektriği kapatınız. (' E N
+2. Klipsleri vida yardımıyla tavana veya duvara sabitleyiniz. (Şekil 1) »
+3. Armatürü elektriğe bağladıktan sonra uygun bir şekilde
+duvara veya tavana monte ediniz. (Şekil 2)
+4. Kurulum bittikten sonra elektriği açabilirsiniz.
+
+Değiştirilemez ışık kaynağı
+
+DEMONTAJ BİLGİSİ TTTTTTTTTTTTTTTTTTTTTTTTTITITTT â& %
+
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız. &
+Ğ
+
+UYARI
+
+| R < R Değiştiril kontrol d
+Bakıma başlamadan elektrik enerjisinin kesik olduğundan emin olun. eğiştirlemez kontrol donanımı
+
+1. Güvenli bir şekilde tesisat kurulumu yapıldığı zaman tutuşma, elektrik çarpması gibi şüpheler oluşmamalıdır.
+
+2. Elektiriği kapamadan ürün temizliği yapılmamalıdır.
+
+3.En uygun voltaj düzeyi 220-240 V 96 10 Tol. Dış mekan kullanımına uygun değildir. Standart voltaj aşılmamalıdır.
+4.Enerji kesildikten sonra soğumaya bırakılmalı daha sonra kurulum ve değişiklikler yapılmalıdır.
+
+5.Cam kırıldığında elektrik enerjisini kesiniz.
+
+6. Dışarıda ve nemli ortamlarda kullanmayınız.
+
+7. Düzgün bir duvara veya tavana monte ettiğinizden emin olunuz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve | yıldır.
+
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez...
+
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+

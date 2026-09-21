@@ -1,0 +1,671 @@
+=== CT-4645 ===
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+KUMANDALI SOLAR LED / CT-4645
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için bu kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+
+:150 W Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+
+Güç Na
+Batarya Gerilim Taswma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+
+Frekans — — 0-60 Hz 1nün herhangi bir zarar görmel in ambalajın içinde taşınması gerekir.
+: rünü dik bir şekilde koyunuz. Ürü üstüne ağırlık koymayınız.
+Reni Sicaklığı HOMN Ürünü'dik bir şekilde k Ü lik K
+Işık Akısı :5501m
+Lümen Verımlıhgw 6lm / W
+Koruma Sınıfı : |P65-C1ass N
+İşik Açısı :I
+Beyan Akımı :ıl
+Ürün Ömrü : 15000 saat
+Çalışma Sıcaklığı 1-5'C
+Solar Batarya Gerilim : 3.2 V 5 AH Life PO4
+Solar Panel | : Polikristalin 8 W / 6 V KULLANIM ALANLARI
+Solar Panel Ölçüsü — : 290 x175 mm . ,
+Uzaktan Kumanda Park Alanları - Reklam Panoları - Endüstriyel - Bahçeler - Fuar Alanları - Tren İstasyonları
+Çalışma Mesafesi 18-10 mt
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+*Ü nünüzü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+ü teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+rününüzün orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+* Ürün barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda ürününüz garanti kapsamına girmemektedir.
+* Ürün kullanım amaçları haricinde kullanılmamalıdır.
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+* Güç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+* Ürün montajına başlamadan önce kabloların, ürünün dış çeperlerinin hasarlı olmadığından emin olunuz..
+Ürünü yeleştireceğiniz yerde ürüne, hasar verebilecek çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz.
+Uyuşmazlık durumunda meydana gelebilecek arızalardan satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+
+MONTAJ ŞEKLİ
+
+* Solar Led'in güneş paneline bağlanması için
+(Erkek ve dişi fişi takıp su geçirmez döner kapağı sıkınız)
+Bağlantının doğru olduğundan emin olunuz.
+
+* Solar Led'i duvara sabitlemek için * Solar Panel'i duvara sabitlemek için
+
+ürün arkasındaki aparatı vida ile ürün arkasındaki aparatı vida ile
+duvara sabitleyiniz. duvara sabitleyebilirsiniz veya
+
+ürün ayağı ile zemine yerleştirebilirsiniz.
+
+DOĞRU KONUMLANDIRMA NASIL SEÇİLİR?
+
+* En uzun maruz kalma süresini sağlamak için güneş panelini gün boyunca doğrudan güneş ışığı alan bir yere kurun.
+
+* Güneş panelleri binalar veya ağaçlar tarafından engellenmemesi gerekir, güneş panelini cam altına veya iç mekanlara kurmayın.
+* Solar Led'i sokak veya sundurma lambaları gibi diğer gece kaynaklarından uzağa kurun.
+
+* Güneş panellerinin yalnızca doğru kurulumu en iyi şarj etkisini sağlayabilir.
+
+Güneş lambasını güneş panelinden daha alçak bir konuma yerleştirin,
+
+KUMANDA AYARLARI
+
+L AÇ
+2- Kapa
+3- Tüm Işık Düzeni
+
+(D
+©
+
+4 4- Yarım Işık Düzeni
+—© © * — 5- Otomatik Mod İ
+C> 8 6- 3 Saat Sonra Otomatik Kapatma Özelliği
+
+7- 5 Saat Sonra Otomatik Kapatma Özelliği
+8- 8 Saat Sonra Otomatik Kapatma Özelliği
+
+Uzaktan kumandayı SOLAR LED'in ön tarafına yöneltin ve istediğiniz işlevi seçin. Uzaktan kumanda alıcı sensörü SOLAR LED'in içine yerleştirilmiştir
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+KUMANDALI SOLAR LED / CT-4643
+
+DEMONTA! BİLGİSİ
+
+Enerjinin kapalı olduğundan emin olduktan sonra
+Montaj bilgisinin ters işlemlerini uygulayınız.
+
+ÖNEMLİ UYARILAR
+
+* Üründe meydana gelen herhangi bir arıza durumunda uzman yetkili servisimizle irtibata geçiniz.
+
+* Yetkili teknik servisimiz dışında ürüne kimsenin müdahale etmesine izin vermeyiniz. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+* Bu ürünün harici bükülgen kablo veya kordonu hasarlanırsa; bir tehlikeden kaçınmak için yetkili kişi tarafından değiştirilmesi gerekir.
+
+* Ürün çalışır durumdayken yüzeyi sıcak olabilir. Ürüne enerjisi kesilip, soğumadan dokunulmamalıdır. Ürün çalışır durumdayken direkt olarak bakmayınız.
+
+* Ürün yüzeyini alkol, benzin gibi yanıcı maddelerle temizlemeyiniz.
+
+* Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, ürünün fatura tarihinden itibaren başlar ve 1 yıldır.
+
+2- Ürünün bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+
+3- Ürünün ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin ürünün
+onarımını yaptırmakla yükümlüdür.
+
+5- Ürünün garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Ürünün tamir süresi 20 iş gününü geçemez...
+
+6- Ürünün kullanma kılavuzunda yer alan hususlara aykırı kuHanıImasmdan kaynaklanan arızalar garanti kapsamı dışındadır
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+air Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+KUMANDALI SOLAR LED / CT-4644
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için bu kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+
+Güç N : 200W Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+
+Eatîrya Gerilim : ğOVGO H Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Rreenlîgwscaklı“w : 6460 K z Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+
+Renk 9 : RGB Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+
+İşik Akısı 1800 1m
+
+Lümen Verimliliği i4İm /W
+
+Koruma Sınıfı : 1P65-Class ll
+
+İşik Açısı 11207
+
+Beyan Akımı 2A
+
+Ürün Ömrü :15000 saat
+
+Çalışma Sıcaklığı 1-5'C-4*65 C
+
+Solar Batarya Gerilim : 3.2 V -1OAH Life PO4
+
+Solar Panel ! Polikristalin15 W / 6 V KULLANIM ALANLARI
+
+Solar Panel Ölçüsü — : 350 x350mm A R
+
+Uzaktan Kumanda Park Alanları - Reklam Panoları - Endüstriyel - Bahçeler - Fuar Alanları - Tren İstasyonları
+Çalışma Mesafesi :8-10 mt
+
+MONTAJ VE GÜVENLİK UYARILARI
+ü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+ün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+!zün orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+ün barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda ürününüz garanti kapsamına girmemektedir.
+ün kullanım amaçları haricinde kullanılmamalıdır.
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+. Guç kablolarının hasarlı oldugu durumda ürünü kullanmaywmz Aksi takdirde ölüm, cwddı yaralanma veya maddi hasara neden olabilir.
+Ü
+
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz.
+Uyuşmazlık durumunda meydana gelebilecek arızalardan satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+
+MONTAJ ŞEKLİ
+
+* Solar Led'in güneş paneline bağlanması için
+(Erkek ve dişi fişi takıp su geçirmez döner kapağı sıkınız)
+Bağlantının doğru olduğundan emin olunuz.
+
+* Solar Led'i duvara sabitlemek için * Solar Panel'i duvara sabitlemek için
+ürün arkasındaki aparatı vida ile ürün arkasındaki aparatı vida ile
+duvara sabitleyiniz. duvara sabitleyebilirsiniz veya
+
+ürün ayağı ile zemine yerleştirebilirsiniz.
+
+DOĞRU KONUMLANDIRMA NASIL SEÇİLİR?
+
+* En uzun maruz kalma süresini sağlamak için güneş panelini gün boyunca doğrudan güneş ışığı alan bir yere kurun.
+
+* Güneş panelleri binalar veya ağaçlar tarafından engellenmemesi gerekir, güneş panelini cam altına veya iç mekanlara kurmayın.
+* Solar Led'i sokak veya sundurma lambaları gibi diğer gece kaynaklarından uzağa kurun.
+
+* Güneş panellerinin yalnızca doğru kurulumu en iyi şarj etkisini sağlayabilir.
+
+Güneş lambasını güneş panelinden daha alçak bir konuma yerleştirin,
+
+KUMANDA AYARLARI
+© - Aç
+—© © 2- Kapa
+
+3- Tüm Işık Düzeni
+
+N
+
+4 4- Yarım Işık Düzeni
+—© © * — 5- Otomatik Mod İ
+& 8 6- 3 Saat Sonra Otomatik Kapatma Özelliği
+
+7- 5 Saat Sonra Otomatik Kapatma Özelliği
+8- 8 Saat Sonra Otomatik Kapatma Özelliği
+
+Uzaktan kumandayı SOLAR LED'in ön tarafına yöneltin ve istediğiniz işlevi seçin. Uzaktan kumanda alıcı sensörü SOLAR LED'in içine yerleştirilmiştir
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapasa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+KUMANDALI SOLAR LED / CT-4644
+
+DEMONTAJ BİLGİSİ
+
+Enerjinin kapalı olduğundan emin olduktan sonra
+montaj bilgisinin ters işlemlerini uygulayınız.
+
+ÖNEMLİ UYARILAR
+
+* Üründe meydana gelen herhangi bir arıza durumunda uzman yetkili servisimizle irtibata geçiniz.
+
+* Yetkili teknik servisimiz dışında ürüne kimsenin müdahale etmesine izin vermeyiniz. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+* Bu ürünün harici bükülgen kablo veya kordonu hasarlanırsa; bir tehlikeden kaçınmak için yetkili kişi tarafından değiştirilmesi gerekir.
+
+ün çalışır durumdayken yüzeyi sıcak olabilir. Ürüne enerjisi kesilip, soğumadan dokunulmamalıdır. Ürün çalışır durumdayken direkt olarak bakmayınız.
+
+ün yüzeyini alkol, benzin gibi yanıcı maddelerle temizlemeyiniz.
+
+* Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, ürünün fatura tarihinden itibaren başlar ve 1 yıldır.
+2- ün bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3-Ü inün ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin ürünün
+mını yaptırmakla yükümlüdür.
+garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Ürünün tamir süresi 20 iş gününü geçemez...
+ün kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dwsındadwr.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. C €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC, LTD. ŞTİ. Bankalar, Şair Ziyapasa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+Geleceğin Teknolojisi Bugündenp...
+
+CATA
+
+KUMANDALI SOLAR LED / CT-4645
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için bu kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+
+Güç N : 300 W Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+
+ğatîrya Gerilim : 60V60 H Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+
+RZaenkarSııScakh ği : ğ4'00 K z Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+9 : Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+
+Renk :RGB
+
+Işik Akısı :1300lm
+
+Lümen Verimliliği .33 lm
+
+Koruma Sınıfı P65-Class Ill
+
+Işık Açısı 20*
+
+Beyan Akımı .BA
+
+Ürün Ömrü
+
+Çalışma Sıcaklığı
+Solar Batarya Gerilim
+Solar Panel
+
+.2 V -15 AHLife PO4
+olikristalin20W / 6 V
+
+KULLANIM ALANLARI
+
+Solar Panel Ölçüsü — :460 x350mm . .
+Uzaktan Kumanda Park Alanları - Reklam Panoları - Endüstriyel - Bahçeler - Fuar Alanları - Tren İstasyonları
+Çalışma Mesafesi 18-10 mt
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+* Ürününüzü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+nüzü teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+* Ürününüzün orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+* Ürün barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda ürününüz garanti kapsamına girmemektedir.
+* Ürün kullanım amaçları haricinde kullanılmamalıdır.
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+* Güç kablolarının hasarlı oîduğu durumda ürünü kuHanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+ın montajına başlamadan önce kabloların, ürünün dış çeperlerinin hasarlı olmadığından emin olunuz..
+Ürünü yeleştireceğiniz yerde ürüne, hasar verebilecek çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz.
+Uyuşmazlık durumunda meydana gelebilecek arızalardan satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi,
+
+ün garantiside geçersiz kalacaktır.
+
+MONTAJ ŞEKLİ
+
+* Solar Led'in güneş paneline bağlanması için
+(Erkek ve dişi fişi takıp su geçirmez döner kapağı sıkınız)
+Bağlantının doğru olduğundan emin olunuz.
+
+* Solar Led'i duvara sabitlemek için
+ürün arkasındaki aparatı vida ile
+duvara sabitleyiniz.
+
+* Solar Panel'i duvara sabitlemek için
+ürün arkasındaki aparatı vida ile
+duvara sabitleyebilirsiniz veya
+
+ürün ayağı ile zemine yerleştirebilirsiniz.
+
+DOĞRU KONUMLANDIRMA NASIL SEÇİLİR?
+
+* En uzun maruz kalma süresini sağlamak için güneş panelini gün boyunca doğrudan güneş ışığı alan bir yere kurun.
+
+* Güneş panelleri binalar veya ağaçlar tarafından engellenmemesi gerekir, güneş panelini cam altına veya iç mekanlara kurmayın.
+* Solar Led'i sokak veya sundurma lambaları gibi diğer gece kaynaklarından uzağa kurun.
+
+* Güneş panellerinin yalnızca doğru kurulumu en iyi şarj etkisini sağlayabilir.
+
+Güneş lambasını güneş panelinden daha alçak bir konuma yerleştirin,
+
+KUMANDA AYARLARI
+
+1- AÇ
+2- Kapa
+3- Tüm Işık Düzeni
+
+(D
+©
+
+* 4- Yarım Işık Düzeni
+—© © * — 5- Otomatik Mod |
+C> 8 6- 3 Saat Sonra Otomatik Kapatma Özelliği
+
+7- 5 Saat Sonra Otomatik Kapatma Özelliği
+8- 8 Saat Sonra Otomatik Kapatma Özelliği
+
+Uzaktan kumandayı SOLAR LED'in ön tarafına yöneltin ve istediğiniz işlevi seçin. Uzaktan kumanda alıcı sensörü SOLAR LED'in içine yerleştirilmiştir
+
+C€
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapasa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+AEEE Yönetmeliğine Uygundur.
+
+
+
+--- sayfa sonu ---
+
+Geleceğin Teknolojisi Bugünden... CA I A
+
+KUMANDALI SOLAR LED / CT-4645
+
+DEMONTA! BİLGİSİ
+
+Enerjinin kapalı olduğundan emin olduktan sonra
+montaj bilgisinin ters işlemlerini uygulayınız.
+
+ÖNEMLİ UYARILAR
+
+* Üründe meydana gelen herhangi bir arıza durumunda uzman yetkili servisimizle irtibata geçiniz.
+
+* Yetkili teknik servisimiz dışında ürüne kimsenin müdahale etmesine izin vermeyiniz. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+U ürünün harici bükülgen kablo veya kordonu hasarlanırsa; bir tehlikeden kaçınmak için yetkili kişi tarafından değiştirilmesi gerekir.
+
+n çalışır durumdayken yüzeyi sıcak olabilir. Ürüne enerjisi kesilip, soğumadan dokunulmamalıdır. Ürün çalışır durumdayken direkt olarak bakmayınız.
+Ürün yüzeyini alkol, benzin gibi yanıcı maddelerle temizlemeyiniz.
+
+Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, ürünün fatura tarihinden itibaren başlar ve 1 yıldır.
+
+2 ünün bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+
+3- Ürünün ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin ürünün
+onarımını yaptırmakla yükümlüdür.
+
+5- Ürünün garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Ürünün tamir süresi 20 iş gününü geçemez...
+
+6- Ürünün kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır
+
+Arızalı ü ü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. C €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+CATA
+
+Geleceğin Teknolojisi Bugündenp...
+
+KUMANDALI SOLAR LED / CT-4646
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için bu kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+
+Güç N 1400W Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+ğatîrya Gerilim : BOVBO H Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Rreenlîgwscaklı“w : ğ4ÖO K z Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+9 : Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+Renk :RGB
+İşik Akısı :18001m
+Lümen Verimliliği 14.5lm / W
+Koruma Sınıfı :1P65-Class ll
+İşik Açısı 11207
+Beyan Akımı 135A
+Ürün Ömrü 5000 saat
+Çalışma Sıcaklığı “C-*65 C
+Solar Batarya Gerilim : 3.2 V -20AH Life PO4
+Solar Panel | : Polikristalin25W / 6 V KULLANIM ALANLARI
+Solar Panel Ölçüsü — :530 x360mm N .
+Uzaktan Kumanda Park Alanları - Reklam Panoları - Endüstriyel - Bahçeler - Fuar Alanları - Tren İstasyonları
+Çalışma Mesafesi 18-10 mt
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+rününüzü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+nünüzü teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+nünüzün orijinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+n barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda ürününüz garanti kapsamına girmemektedir.
+irün kullanım amaçları haricinde kullanılmamalıdır.
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+* Elektrik bağlantıları sadece uzman personel tarafından yapHmaIıdwr
+* Ürün kurulurken elektrik bağlantısının kapalı oldugundan emin olunuz.
+* Güç kablolarının hasarlı oldugu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+ünün dış çeperlerinin hasarlı olmadığından emin olunuz..
+Ürünü yeleştireceğiniz yerde ürüne, hasar verebilecek çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz.
+Uyuşmazlık durumunda meydana gelebilecek arızalardan satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+
+MONTAJ ŞEKLİ
+
+* Solar Led'in güneş paneline bağlanması için
+(Erkek ve dişi fişi takıp su geçirmez döner kapağı sıkınız)
+Bağlantının doğru olduğundan emin olunuz.
+
+* Solar Led'i duvara sabitlemek için
+ürün arkasındaki aparatı vida ile
+duvara sabitleyiniz.
+
+* Solar Panel'i duvara sabitlemek için
+ürün arkasındaki aparatı vida ile
+duvara sabwtleyebıhrsınız veya
+
+ürün ayağı ile zemine yerleştirebilirsiniz.
+
+DOĞRU KONUMLANDIRMA NASIL SEÇİLİR?
+
+* En uzun maruz kalma süresini sağlamak için güneş panelini gün boyunca doğrudan güneş ışığı alan bir yere kurun.
+
+* Güneş panelîerı binalar veya ağaçlar tarafından engellenmemesi gerekir, guneş panelini cam altına veya iç mekanlara kurmayın.
+* Solar Led'i sokak veya sundurma lambaları gibi dıger gece kaynaklarından uzağa kurun.
+
+* Güneş panellerinin yalnızca doğru kurulumu en iyi şarj etkisini sağlayabilir.
+
+Güneş lambasını güneş panelinden daha alçak bir konuma yerleştirin,
+
+KUMANDA AYARLARI
+© T- Aç
+—© O 2- Kapa
+
+3- Tüm Işık Düzeni
+
+yi
+
+« 4- Yarım Işık Düzeni
+—S e 3 5- Otomatik Mod
+& 8 6- 3 Saat Sonra Otomatik Kapatma Özelliği
+
+7- 5 Saat Sonra Otomatik Kapatma Özelliği
+8- 8 Saat Sonra Otomatik Kapatma Özelliği
+
+Uzaktan kumandayı SOLAR LED'in ön tarafına yöneltin ve istediğiniz işlevi seçin. Uzaktan kumanda alıcı sensörü SOLAR LED'in içine yerleştirilmiştir
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN, VE TİC, LTD. ŞTİ. Bankalar, Şair Ziyapasa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+
+
+
+--- sayfa sonu ---
+
+©
+Geleceğin Teknolojisi Bugündenp... CA I A
+
+KUMANDALI SOLAR LED / CT-4646
+
+DEMONTAJ BİLGİSİ
+
+Enerjinin kapalı olduğundan emin olduktan sonra
+montaj bilgisinin ters işlemlerini uygulayınız.
+
+ÖNEMLİ UYARILAR
+
+* Üründe meydana gelen herhangi bir arıza durumunda uzman yetkili servisimizle irtibata geçiniz.
+
+* Yetkili teknik servisimiz dışında ürüne kimsenin müdahale etmesine izin vermeyiniz. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+* Bu ürünün harici bükülgen kablo veya kordonu hasarlanırsa; bir tehlikeden kaçınmak için yetkili kişi tarafından değiştirilmesi gerekir.
+
+irün çalışır durumdayken yüzeyi sıcak olabilir. Ürüne enerjisi kesilip, soğumadan dokunulmamalıdır. Ürün çalışır durumdayken direkt olarak bakmayınız.
+rün yüzeyini alkol, benzin gibi yanıcı maddelerle temizlemeyiniz.
+
+* Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, ürünün fatura tarihinden itibaren başlar ve 1 yıldır.
+
+nün bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+
+inün ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin ürünün
+onarımını yaptırmakla yükümlüdür.
+
+5- Ürünün garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Ürünün tamir süresi 20 iş gününü geçemez...
+
+6- Ürünün kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır
+
+3-
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. c €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN, VE TİC, LTD. ŞTİ. Bankalar, Şair Ziyapasa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+

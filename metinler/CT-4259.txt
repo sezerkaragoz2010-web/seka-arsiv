@@ -1,0 +1,114 @@
+=== CT-4259 ===
+
+140*105mm (70g88/5ZRXLELKR H, KAT D)
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+CT-4259 SENSÖRLÜ LED AMPUL / SENSOR BULB
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+Valued Customer,
+
+This user manual contains the necessary ir ion to ensure Maximum n örder for the product warranty to be valid|, all subjects in the user manual must be applied.
+
+TEKNİK ÖZELİKLER/TECHNICAL SPECIFICATIONS
+
+Ürün dimmerle kullanılamaz/The product cannot be used with a dimmer. Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Güç/Power 15W Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Gerilim/Voltage 220-240 V Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Frekans/Freguency 50-60 Hz Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+Renk Sıcaklığı/Color Temperature 6400 K
+Işık Akısı/Luminous Flux 1500 İm Subjects to be during handling and
+Duy/Lampholder E27 Products should be protected against direct impacts during transportation.
+Hg 0.0 mg In order to avoid any damage to the product, it must be transported in its packaging.
+Koruma Sınıfı/Protection Class 1P20 - Class I Damages that may occur during transportation are the responsibility of the contractor, shipper, buyer and user.
+Işık Açısı/Beam Angle Put the product upright. Do not put weight on the product.
+Beya%Akwm/ı/Raled Current OJBA 7
+Ürün Ömrü/Lifetime 15000 saat/hours
+Çalışma Sıcaklığı/Working Temperature — : -20*C- * 40*C KULLANIM ALANLARI/ R FTELDS OF USAGE
+Başlama Süresi/Starting Time <0.5 sn/sec Evler - Oteller - Lokantalar - Mağazalar - Kafeler — Houses - Hotels - Restaurants - Stores - Cafe
+CRI (Ra) >80
+KULLANIM TALİMATI
+
+Ürünün herhangi bir zarar görmemesi için kutusu içerisinde taşınması gerekmektedir.
+
+1- Ürünün montajını yapmadan önce enerjiyi kapatmayı unutmayınız.
+
+2- Ürünün sökülmesi veya tamir edilmesi gereken durumlarda enerjinin kapalı olduğundan emin olunuz.
+3- Ürünü 220-240 V ve 50-60 Hz değerlerinin altında veya üzerinde bir voltaj ve frekansla çalıştırmayınız
+4- Koruma sınıfı (IP) bilgisi ürün üzerindeki etikette ve ürün kutusunda yer almaktadır.
+
+Ürün koruma sınıfının belirttiği değerlerin üzerindeki hava ve iklim koşullarında kullanılmamalıdır.
+
+5- Ürün temizliği yapılırken enerjinin kapalı olduğundan emin olunmalıdır.
+
+Temizleme esnasında korozyon içermeyen maddeler kullanınız. Su ve ıslak bezle temizlik yapmayınız.
+
+6- Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+JINSTRUCTION
+
+The product must be transported in its box to avoid any damage.
+
+1- Do not forget to turn off the power before assembling the product.
+
+2-In cases where the product needs to be disassembled or repaired, make sure that the power is turned off.
+
+3- Do not operate the product with a voltage and freguency below or above 220-240 V and 50-60 Hz.
+
+4- Protection class (IP) information is on the label and the box.
+
+The product should not be used in weather and climatic conditions above the values specified by the protection class.
+5- While cleaning the product, it should be ensured that the energy is turned off.
+
+Do not clean with water and wet cloth. Do not use cleaning solvents of any kind.
+
+6- Keep the product out of reach of children and'in the product box.
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+CT-4259 SENSÖRLÜ LED AMPUL / SENSOR BULB
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+T- Garanti süresi, malın fatura tarihinden itibaren başlar ve | yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez...
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması ya da zorunlu olan gibi), garantili ürünlerde
+yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya
+da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb. doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+WARRANTY CERTIFICATE
+
+Warranty Conditions
+1- The warranty period starts from the invoice date of the goods and it is 1 year.
+2- The entire product, including all parts, is under warranty.
+3- In case the goods are found to be defective, the consumer, in Article 11 of the Law No. 6502 on the Protection of the Consumer;
+a) To have free repair.
+b) If it is not repaired, replacing it with a new product.
+4- In case of free repair of the consumer from these rights, the seller; It is obliged to have the goods repaired without any charge under any other name, such as labor cost, replacement part cost or any other name.
+5- In case of malfunction of the product within the warranty period, the period of repair is added to the warranty period. The repair period of the goods cannot exceed 20 working days.
+6- Defects resulting from the use of the product contrary to the terms in the user manual are not covered by the warranty.
+What are the usage errors that make the defective product out of warranty?
+Defects arising from electricity and user usage (such as power cut, voltage fluctuation, installation of accessories that do not belong to the machine or not using mandatory accessories), any intervention other than
+authorized service in guaranteed products, damage to the label in products with warranty label, damage to the outer surface of the device. broken, scratched etc. Failures caused by reasons such as failures caused by use in
+dusty, humid, extremely hot or cold environments, flood, fire, earthauake, lightning strike, etc. Failures caused by natural disasters are not covered by the warranty.
+Service Address : Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur./Compliant with WEEE Regulation. c €
+
+İTHALATÇI-İMALATÇI//MPORTER-EXPORTER : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul/TÜRKİYE
+

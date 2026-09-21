@@ -1,0 +1,396 @@
+=== CT-4040 ===
+
+Geleceğin Teknolojisi Bugündenp...
+
+CATA
+
+CT-4040 AKILLI KAMERALI KİLİT / SMART DOOR LOCK
+
+Değerli Müşterimiz / Dear Customer,
+
+İTRİENİ
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+This user manual contains the necessary information to ensure maximum performance. In order for the product warranty to be valid, all subjects in the user manual must be applied.
+
+TEKNİK ÖZELİKLER / TECHNICAL SPECIFICATIONS
+Güç Kaynağı / Power Supply
+
+Acil Durum Güç Kaynağı / Emergency Power Supply
+Ağ Bağlantıları / Network Connections
+Görüntüleme Ekranı / Display Screen
+
+Max. Kullanıcı / Max. User
+
+Kart Türü / Card Type
+
+Kart Algılama Mesafesi / Card Detection Distance 10-40 mm
+İnsan Algılama Mesafesi / Human Detection Distance :
+Yüz Tanıma Mesafesi / Face Detection Distance
+Çalışma Nem Oranı / Operating Humidity
+Çalışma Sıcaklığı / Operating Temperature
+
+:DC7AV (Lityum Batarya / Lithium Battery)
+:5V (Type C)
+
+124 GWIFI
+
+:0.96 OLED Beyaz Işık / 0.96 OLED White Light
+
+11096 - 904
+1-200C -460*C
+
+AKILLI KAMERALI KİLİT / SMART DOOR LOCK
+
+1- Fabrika ayarları modu / Factory default mode
+Herhangi bir parmak izi / şifre / kart kilidi açabilir / Any fingerprints/Password/Card can open the lock
+
+1250 (Yüz (50) * Parmak İzi (100) * Şifre * Kart) / 250 (Face (50) * Fingerprint (100) * Password * Card)
+: Yüksek Frekanslı Mifare Kart / Mobil NFC Kart / High-freguency Mifare Card / Mobile NFC Card
+
+0,8 metreden 1,5 metreye kadar ayarlanabilir / Adjustable from 0.8 meters to 1.5 meters
+:Dikey montaj açısı < 15? (yükseklik 1,2-2,0 m) / Vertical installation angle < 15? (height 1.2-2.0 m)
+
+Kol üzerindeki kilitleme ve kilit açma butonlarına aynı anda 3 saniye basıldığında sistem fabrika ayarları moduna alınır. / Press the lock and unlock buttons of the handle simultaneously for 3 seconds, the system
+
+will be set to factory default mode.
+2- Kurulum menüsü / Install menu
+
+Fabrika modundayken, dokunmatik tuş takımına 888# basıldığında sistem kurulum menüsüne girer. / In factory mode, Press 888# on the touch keypad, system will enter install menu.
+
+1- Kilit Dizini IR) / Lock Dir IRI
+
+Fabrika Varsayılan Modu/ — ggg
+Factory Default Mode
+
+2- Kuvvet (HI / Force (HI
+3- Ters Çevir 12501 / Invert 12501
+
+4- Açık Zaman (2s1 / Open Time (2s|1
+
+Lütfen fonksiyonları ayarlamak için ilgili numara tuşlarına basınız / Please press the corresponding number keys to set the functions:
+
+Kilit yönü / Lock direction: Sol / Left - Sağ / Right
+Güç / Force: Yüksek /High - Orta / Mid - Düşük / Low
+Ters Çevirme Süresi / Invert Time: 150ms - 450ms
+Açık Kalma Süresi / Open Time: 2s - 8s
+
+Dil ayarı (Fabrika ayarları modunda) / Language setting (In factory default mode)
+
+Kısayol Tuşu / Shortcut Key Ses Yayın Dili / Voice Broadcasting Language Ekran Arayüzü / Screen Interface
+7N2H# Türkçe / Turkish Türkçe / Turkish
+ZOOH# Çince / Chinese Çince / Chinese
+Z101H# İngilizce / English İngilizce / English
+71024 Arapça / Arabic Arapça / Arabic
+HO3H Rusça / Russian Rusça / Russian
+HOSH Portekizce / Portuguese Portekizce / Portuguese
+T0GH# İspanyolca / Spanish İspanyolca / Spanish
+HOZH# Viyetnamca / Vietnamese Viyetnamca / Vietnamese
+ZNO8H# Endonezya Dili / Indonesian Endonezya Dili / Indonesian
+ZHO9DH# Brezilya Portekizcesi / Brazilian Portuguese || Brezilya Portekizcesi / Brazilian Portuguese
+
+Yönetici ve kullanıcılar kaydedildikten sonra, her kullanım öncesinde sistemi uyandırmak için panele dokunmanız gerekir. / After registering the administrator and users, you need to touch the panel to wake up the
+
+system before each use.
+
+Ürüne Genel Bakış / Product Overview
+
+70.00
+—
+î 3D Yüz Kemarası / 3D Face Camera
+© Gözetleme Deliği Kamerası / Peephole Camera AA . O
+z Görüntü Ekranı / Display Screen ——
+— Parmak İzi Alanı / Fingerprint Area 19.00, |
+124
+46 : ;
+7a Z— Sayısal Alan / Numeric Area İşlev Düğmeleri / Function Buttons —
+'0 4
+a|
+— Kart Geçirme Alanı / Card Swiping Area ——
+X —— :
+X Bi
+N ; BERE Tek Tıklamayla Kilitleme Anahtarı düğmesi / One-click Switch Button v
+Tip-c Acil Durum Gücü Besleme Portu / Type-c Emergency Power Supply Port y 9 /
+X Anahtar Deliği / Keyhole 39.00 İ |
+© Ö
+Door Lock Diagram / Kapı Kilit Diagramı
+o © © o © o © o © o © © © © © o © © ö ö
+(S
+| Z . B — -— . 8 & |
+ı s el l | —Y © Ö el /
+: - G b ğ
+e
+Rear Panel — Front Panel — Rearlock — Rearlock — LockBody 4 xFxing — LockBody — Battery Screw — m5*65Lock ICCardx2 — Ribbed — Data Cable Lock Spring — SauareRod — Rubber Keyx2 Washer Screw — Strike Plate
+Gasket Spacer Screws 4 x Fxing Tubex2 — Cylinder Crew X Cylinder Cover
+Screws Screw x 1
+
+Kapı Kilidi Kurulum Kılavuzu / Door Lock Installation Guide
+
+1- Sağ Açılış / Right Opening
+
+2- Sol Açılış / Left Opening
+
+Sağ El İçeriye / Right-hand inswing Sağ El Dışarıya / Right-hand outswing
+
+Interior
+
+Interior
+
+Exterior
+
+Exterior
+
+Sol El İçeriye / Left-hand inswing Sol El Dışarıya / Left-hand outswing
+
+Interior
+
+Interior
+
+EB..
+
+Exterior
+
+Exterior
+
+3- Kapınızın açılma yönüne göre ayarlayın / Adjust according to your door's opening direction.
+
+1. Önce mandalı yukarı itin / First, push the buckle upwards.
+
+2. Ters çevirmeyi tamamlamak için mandalı 180* döndürün / Rotate the latch 180* to complete the reversal.
+
+4- Kapının önceden delinmiş deliklerini şablon diyagramı ile kontrol edin. Eğer hizal, delikleri
+
+delin /
+
+göre y
+
+Verify the door's pre-drilled holes against the template diagram. If misaligned, re-drill the holes according to the template.
+
+MMk ” 34i
+
+1. Kilit gövdesi )'i takın ve kilit gövdesinin her iki ucundaki sabitleme vidası (6)'yı sıkın / Install the lock body (©) and tighten the fixing screw (6) at both ends of the lock body.
+2. Kilit silindiri 3)'ü takın ve kilit silindiri sabitleme vidalarını ile sıkın / Install the lock cylinder â2) and tighten the lock cylinder fixing screws (0).
+3. Kilit silindirinin kuyruk parçasını ölçün, kapı kalınlığına göre gerekli uzunluğu işaretleyin (18 mm - 25 mm aralığında kalmasına dikkat edin), ardından fazla kısmı kesin / Measure the lock cylinder's tailpiece, mark
+
+the reguired length based on door thickness (maintain 18mm-25mm), then cut off the excess portion.
+
+5- Ön ve arka kilit montajı için hazırlık işlemleri / Preparation Work for Installing Front and Back Locks.
+
+screw,
+
+N
+
+lock body.
+
+. Arka kilit contasını, arka kilit puluna takın / Install the rear lock gasket onto the rear lock washer.
+
+B
+
+(approximately door thickness minus 15mm), then trim off the excess.
+
+6- Ön Plakayı Takın / Install the Front Plate
+
+. Pul 49)'u vida üzerinden geçirin ve ardından vida borusunun düz ucunu (9) vida üzerine vidalayın / Press the washer (9) through the screw (G0) and then thread the smooth end of the screw tube (9) onto the
+
+Ön kilidin her iki ucuna vida kovanlarını yerleştirin. Kovanları, kilit gövdesinde işaretlenmiş noktalara hizalayın / Install the screw sleeves at both ends of the front lock. Align them with the marked position on the
+
+Kapı kalınlığına göre yivli vidayı uygun uzunlukta kesin (yaklaşık olarak kapı kalınlığından 15 mm eksik olacak şekilde) ve fazla kısmı çıkarın / Cut the ribbed screw to length based on door thickness
+
+1. Önkilit montajını yapın; kabloları ezilmelerini önlemek için kapı deliğinden geçirerek yönlendirin / Install the front lock assembly, routing the cables through the door bore to prevent crushing damage.
+2. Arka kilit pulunu takın, ön ve arka kilitleri hizalayın, ardından yivli vidaları sıkın. (Not: Anahtar deliğinin ortalanmış olduğundan ve mil deliği, kilit silindiri çubuğu ile sürgü deliğinin arka plaka dairesinin merkez
+noktası ile hizalı olduğundan emin olun.) / Install the rear lock washer, align the front and rear locks, then tighten the ribbed screws. (Note: Ensure the keyhole is centered, and the spindle hole, lock cylinder rod, and
+
+deadbolt hole are all aligned with the center point of the rear backplate circle.)
+
+7- Arka Plakayı Takın / Install the Rear Plate
+
+1. Mil G6)'yı, nokta işaretli ucunu kilit gövdesinin kare sürücü yuvasına takarak monte edin / Install the spindle (6) by inserting the dot-marked end into the sguare drive socket of the lock body.
+2. Mili kapı kenarından ölçün, 35-40 mm uzunluk bırakın, ardından fazla kısmı kesin / Measure the spindle from the door edge, retain a length of 35-40mm, then cut off the excess portion.
+
+3. Arka kilidin pil kutusu kapağını açın / Open the battery box cover of the rear lock.
+
+
+--- sayfa sonu ---
+
+Geleceğin Teknolojisi Bugündenp...
+
+CT-4040 AKILLI KAMERALI KİLİT / SMART DOOR LOCK
+
+5. Mil 35 mm'den daha az çıkıntı yapıyorsa, (5) numaralı yayı mil deliğine takın. Aksi takdirde yayı takmayın / If the spindle protrudes less than 35mm, insert a spring (5) into the spindle hole. Otherwise, do not
+install the spring.
+6. Ön kilidin güç kablosunu ve gizli kamera (pencere deliği) kablolarını bağlayın / Connect the front lock's power cable and peephole wires.
+
+7. Fazla kabloları düzenli bir şekilde toplayın ve kapı boşluğuna yerleştirin / Neatly organize excess wiring and tuck it into the door gap.
+8. Sürgü kuyruğunu, mili, kilit silindirini ve aktüatör çubuğunu hizalayın, ardından arka kilit montajını yapın / Align the tailpiece, spindle, lock cylinder, and actuator rod, then install the rear lock assembly.
+
+9. Tespit vidalarını sıkmadan vidalayın. Ön ve arka panelleri hizaladıktan sonra vidaları sıkın ve ardından hızlı açma kolunu kilidin açılması için test edin / Screw in the fixing screws without tightening them. After
+aligning the front and rear panels, tighten the screws, and then test the guick - release handle for unlocking.
+10.Pili takın ve pil bölmesini kapatın. Fonksiyonu test edin. Sorun yoksa, (7 numaralı lastik kapağı takın / Insert the battery and cover the battery compartment. Test the function. After İt is okay, İnsert the rubber
+
+cover (7.
+
+Door Lock Setup Tutorial
+
+1- Sistem Menü / System Menu
+Dokunmatik tuş takımında * * # tuşlarına basın, ardından sistem menüsüne girmek için yönetici şifresini girin / Press touch keypad * * #, input administration to enter system menu.
+
+System Menu / Sistem Menüsü
+1. Add Fp/Pd/Card - Parmak
+izi/Şifre/ Kart ekle
+
+1.User Setting /
+Kullanıcı Ayarları
+
+2. Add face / Yüz ekle
+
+3. Delete user / Kullanıcı sil
+4. Add hand / Avuç içi ekle
+1. Datetime /Tarih saat
+
+1. Verify / Doğrula
+2.AutoLock / Oto. Kilitleme
+2. System Setting 3.AntiPry / Zorlama Önleyici
+/Sistem Ayarları 4.Bodylnd / Gösterge
+
+1.Low volume / Kısık ses
+2.High volume / Yüksek ses
+
+2. Unlock setting / Kilit açma ayarı
+
+3. Volume / Ses
+
+4. Restore / Fabrika ayarları
+
+2- Kullanıcı Ayarları / User Setting
+D Parmakizi, şifre, kart ekle / Add fingerprint, password, card
+Eklenecek ID 001'den başlamaktadır. İlk 3 kullanıcı, yani 001'den 003'e kadar olan ID'ler yönetici olarak atanmıştır. İlk yönetici eklendikten sonra normal kullanıcı ID'sine geçmek için # tuşuna basabilirsiniz / The ID
+to add is from OO1. The first 3 users with ID from OO1 to 003 are administrator. You can press # to switch to normal user ID if the first administrator is being added.
+Sesli bildirim: 'Yönetici ekle' (ID 001-003) veya 'Normal kullanıcı ekle' (ID 004-250). Parmak izi, şifre veya kart girebilirsiniz. Parmak izi için 6 kez giriş yapmanız gerekmektedir. Şifre uzunluğu 6-12 karakter
+olmalıdır / Voice broadcast: 'Add administrator' (ID 001-003) or 'Add normal user' (ID 004-250) You can input fingerprint, password or card. You need input 6 times for fingerprint. The password length is 6-12.
+2) Yüz Ekle / Add Face
+“Lütfen kameraya yüzünüzü dönün.” Yüzünüzü beş farklı yönden yakalamanız gerekmektedir: “Düz bakış”, “Yüz yukarı”, “Yüz aşağı”, “Yüz sola” ve “Yüz sağa” / Please face the camera.” You need to capture your
+face from five directions: “Face forward”, “Face up”, “Face down”, “Face left”, and “Face right”.
+3) Kullanıcı Sil / Delete User
+Silinecek kullanıcı ID'sini girin, onaylamak için # tuşuna basın. Eğer OO1 ID'li kullanıcıyı silmeniz gerekiyorsa, bunu yapmak için fabrika ayarlarına sıfırlama yapmalısınız / Please input the user |D to delete, press # to
+confirm. If you need to delete the user with ID OO1, you must reset factory mode to do it.
+4) Kullanıcı ekle - Avuç içi (İsteğe bağlı özellik) / Add user - Palm (Optional function)
+Parmak izi, şifre ve kart eklemekle aynıdır /lIt's same as adding fingerprint, password and card.
+
+3- Uzaktan Ayar / Remote Setting
+D Ağ Ayarı / Network Setting
+Lütfen WIFI ayarlarını uygulama üzerinden yapınız / Please do the WIFI configuration in APP.
+2) Geçici Parola (WeChat Mini Programı ile) / Temporary password (WeChat Mini Program)
+Eşleştirme işlemini tamamlamak için lütfen WeChat Mini Programından 10 haneli eşleşme kodunu girin / Please input the 10 digit match code from WeChat Mini Program to finish the pairing operation.
+
+4- Sistem Ayarları / System Setting
+1) Tarih ve saati ayarla / Set date and time
+
+Lütfen güncel tarih ve saati girin / Please input the current date and time.
+2) Kilit Açma Ayarı / Unlock setting
+
+Please press the corresponding number keys to set the functions:
+
+Doğrulama: Çift modda, yönetici doğrudan kilidi açabilir. Kullanıcı için ise kilidi açmak üzere iki kullanıcı bilgisi girilmelidir / Verify: In double mode, the administration can unlock directiy. For user, you must
+enter two user information to unlock.
+Otomatik Kilitleme: Kapalı/10 sn/20 sn/30 sn / AutoLock: OFF/10s/205s/30s
+Zorlamaya Karşı Alarm: Zorlama alarmı, Açık-Kapalı / AntiPry: Anti-prying alarm, ON-OFF
+Gövde Algılama: İnsan vücudu algılama ile uyanma fonksiyonu / BodyInd: Human Body detection wake-up function.
+3) Ses / Volume
+4) Fabrika ayarları / Restore default
+
+Please press # to confirm the operation, or press * to cancel the operation.
+
+Tuya Smart Tabanlı Operasyonlar / Tuya Smart Related Operations
+
+İ Not: Herhangi bir kullanıcı kaydedilmemişse, herhangi bir parmak izi ile kilit açılabilir. İç Mekan Akıllı Kilit (Bluetooth, Tuya) Kullanım Kılavuzu - Uygulama Tanıtımı ve Edinme /
+Note: İf no user is registered, any fingerprint can unlock it. Indoor Smart Lock (Bluetooth Tuya ) - Operation Guide, App Introduction and Acauisition
+
+ANDROID APP ON Available on the iPhone
+
+b Google play App Store
+
+Tuya Smart Uygulaması”, Tuya tarafından son kullanıcılar için sunulan bir akıllı cihaz yönetim uygulamasıdır. Bu uygulama aracılığıyla evinizdeki akıllı ürünleri kolayca yapılandırabilir ve kontrol edebilir, favori
+senaryolarınızı ve otomasyon çözümlerinizi oluşturabilir, akıllı cihazlarınızı aileniz ve arkadaşlarınızla paylaşabilir ve tamamen akıllı bir evin keyfini çıkarabilirsiniz. Uygulamayı indirin: Uygulama pazarında veya
+App Store'da “Tuya Smart” araması yaparak ya da yukarıdaki Tuya uygulama GR kodunu tarayarak indirebilirsiniz / The 'Tuya Smart APP' is a smart device management application provided by Tuya for end users.
+With the 'Tuya Smart APP', you can easily configure and control smart products throughout your home, set up your favorite scenes and automation solutions, share your smart devices with family and friends, and
+enjoy the experience of a fully smart home. To download the app, search for 'Tuya Smart' in the app store or scan the Tuya APP OR code above.
+
+1. Akıllı kilit menü ayarlarına girin: '* ve '#' tuşlarına basın, ardından yönetici doğrulamasını tamamladıktan sonra menü ayarlarına erişin / Enter the smart lock menu settings: Press '" '#', verify administrator,
+enter menu settings after verification.
+
+2. Ağ Yapılandırması: Menü ayarlarına girdikten sonra, ilgili işlev numarasını seçin / Network Configuration: After entering the menu settings, select the corresponding function /
+Uzaktan yönetim için 2'ye basın / Press 2 for remote management
+Ağ ayarları için 1'e basın / Press 1 for network settings
+
+3. Akıllı kilit üzerindeki menü işlemleri tamamlandıktan sonra, telefonunuzdan Wi-Fi'yi açarak internete bağlanın, ardından TUYA uygulamasına girin ve aşağıdaki şekilde gösterildiği gibi işlemi gerçekleştirin /
+After completing the menu operations on the smart lock, enable Wi-Fi on your mobile phone and connetct it to the internet. Then open the Tuya Smart app and follow the steps shown in the figure below:
+
+17:394 a-. u - u " - 17:544 a. ç ©«7
+17:380 * a! 17:460 «7 . 17:434 L 17:55 A HÇ
+© x Add Devik v do0t Z
+< Add Device - vce
+- E x x
+Favorites z ' ' . Select 2.4 GHz Wi-Fi Network and Connecting Device v
+enter password. Power on the device,
+Doorbel, Smart Sırart o
+Camera Doorbeli Doorbeli bi «öH: door
+(Di Band) Common router setting method
+v - L Ç|
+Foodioht ——— BaseStatlon wWR v 2.4Ghz d Hold to unlock
+Camera
+&e " ©
+Ve
+
+DVR Bird Feeder Mobile YN l
+bwti Camera 7 CATA Select Wİ-Fİ
+
+e Album/Log
+
+Lock lock
+Wi (Zi9bee)
+
+Lock
+BLE (NB-on)
+
+Done
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; isçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 is gününü geçemez...
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir?
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması ya da kullanılması zorunlu olan aksesuarların kullanılmaması gibi), garantili
+ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu,
+rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb. doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+WARRANTY CERTİFİCATE
+
+Warranty conditions
+1- The warranty period starts from the invoice date of the goods andit is | year.
+2- The entire product, including all parts, is under warranty.
+3- In case the goods are found to be defective, the consumer, in Article 11 of the Law No. 6502 on the Protection of the Consumer;
+a) To have free repair.
+b) If it is not repaired, replacing it with a new product.
+4- In case of free repair of the consumer from these rights, the seller; It is obliged to have the goods repaired without any charge under any other name, such as labor cost, replacement part cost or any other name.
+5- In case of malfunction of the product within the warranty period, the period of repair is added to the warranty period. The repair period of the goods cannot exceed 20 working days.
+6- Defects resulting from the use of the product contrary to the terms in the user manual are not covered by the warranty.
+
+What are the usage errors that make the defective product out of warranty?
+Defects arising from electricity and user usage (such as power cut, voltage fluctuation, installation of accessories that do not belong to the machine or not using mandatory accessories), any intervention other than
+
+authorized service in guaranteed products, damage to the label in products with warranty label, damage to the outer surface of the device,broken, scratched etc. Failures caused by reasons such as failures caused
+by use in dusty, humid, extremely hot or cold environments, flood, fire, earthguake, lightning strike, etc. Failures caused by natural disasters are not covered by the warranty.
+
+Servis Adresi/Service Address : Şair Ziyapaşa Cad. Lakerdacı Sk. Mimaroğlu Han. No.12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur/Compliant with WEEE Regulation C €
+
+İTHALATÇI-İMALATÇI / /MPORTER/EXPORTER : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul-/-TÜRKİYE
+

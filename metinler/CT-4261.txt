@@ -1,0 +1,68 @@
+=== CT-4261 ===
+
+©
+Geleceğin Teknolojisi Bugünden... CAIA
+
+MİNİ AMPUL / CT-4261
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+Ürün dimmerle kullanılamaz. Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Güç 2W Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Gerilim 1220- 240 v Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Frekans :50-60 H
+Renk Sıcaklığı — : 6400K - 3200 K
+İşık Akısı :70lm- 65lm
+Duy 14
+Hg :0.0mg
+Koruma Sınıfı :1P20-Class ll
+İşık Açısı 1270'
+Beyan Akımı :20mA KULLANIM ALANLARI
+İrün Ömrü : 15000 saat
+Çalışma Sıcaklığı : -20'C -* 40'C Evler - Mağazalar
+Başlama Süresi — :<0.5 sn Oteller - Sanayiler
+KULLANIM TALİMATI
+
+1- Ürünün montajını yapmadan önce enerjiyi kapatmayı unutmayınız.
+2- Ürünün sökülmesi veya tamir edilmesi gereken durumlarda enerjinin kapalı olduğundan emin olunuz.
+3- Ürünü 220 V ve 50-60 Hz değerlerinin altında veya üzerinde bir voltaj ve frekansla çalıştırmayınız.
+4- Koruma sınıfı (IP) bilgisi ürün üzerindeki etikette ve ürün kutusunda yer almal
+Ürün koruma sınıfının belirttiği değerlerin üzerindeki hava ve iklim koşuHarmda kuHanHmamahdır
+5- Ürün temizliği yapılırken enerjinin kapalı olduğundan emin olunmal
+Temizleme esnasında korozyon içermeyen maddeler kullanınız. Su ve ıslak bezle temizlik yapmayınız.
+6- LED ampule çıplak gözle uzun süreli bakmak, göze zararlı etki edebilir.
+7- Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+8- Ürünün herhangi bir zarar görmemesi için kutusu içerisinde taşınmalıdır.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1-  Garanti süresi, ürünün fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Ürünün bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Ürünün ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun TI inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmal
+b) Onarımı yapılmadıığı takdirde yeni ürünle değiştirilmesi.
+- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep
+etmeksizin ürünün onarımını yaptırmakla yükümlüdür. .
+5- Ürünün garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Ürünün tamir süresi 20 iş gününü geçemez..
+6- Ürünün kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır
+
+»
+
+Arızalı ürünü garanti
+
+Elektrik ve kullanıcının kullanımından doğan arızalar Celektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması
+zorunlu olan aksesuarların kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde
+etiketin zarar görmesi, cihazın dış yüzeyinde oluşan kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda
+kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb. doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL c €
+
+AEEE Yönetmeliğine Uygundur.
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapasa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE

@@ -1,0 +1,113 @@
+=== CT-2476 ===
+
+©
+Geleceğin Teknolojisi Bugünden... ( AIA
+
+72W YATAY BANT ARMTÜR!/CT-2476
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için bu kullanım kılavuzunda yer alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+Güç 72W Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+Gerilim - AC180-240V Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Frekans SO-GOHZ Ürünü dik bir şekilde koyunuz.
+Koruma Sınıfı 1P20 Classll Ürünün üstüne ağırlık koymayınız.
+İşikAçısı 120* KULLANIM ALANLARI
+Beyan Akımı 240mA
+Evler
+Ürün Ömrü 15.000 saat İşyerleri
+Hastaneler
+
+Çalışma Sıcaklığı : -20*C-*40*C Sİ
+Mağazalar
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+Ürününüzü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+* Ürününüzü teslim alırken, ürün ile birlikte gelmesi gereken akesuarlar varsa tam olup olmadığını kontrol ediniz.
+* Ürününüzün orjinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+* Ürün barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda
+ürününüz garanti kapsamına girmemektedir.
+* Ürün kullanım amaçları haricinde kullanılmamalıdır.
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+* Güç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+* Ürün montajına başlamadan önce kabloların, armatürün dış çeperlerinin hasarlı olmadığından emin olunuz.. Armatürü yeleştireceğiniz yerde armatüre,
+hasar verebilcek çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim aln emin olunuz. Uyuşmazlık durumunda meydana gelebilcek arızalardan
+satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+* Ürünü elektirik kaçağı olabilcek yerlerde kullanmayınız.
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+İrün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi,
+ürün garantiside geçersiz kalacaktır.
+
+MONTAJ ŞEKLİ E LA | 25mm
+
+* Ürünün montajını yapmadan önce enerjiyi kapatınız.
+* Ürünün plastik parçasını vida ile duvara sabitleyiniz.
+
+* Armatürü plastik montaj parçasına yerleştiriniz . I
+* Armatürü yerleştirdikten sonra vidalar ile sabitleyiniz .
+
+* Ürünün doğru bir şekilde monte edildiğinden emin olunuz.
+
+75.5mm
+
+1200mm
+DEMONTAJ BİLGİSİ
+
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız.
+
+ÖNEMLİ UYARILAR
+
+* Üründe meydana gelen herhangi bir arıza durumunda uzman yetkili servisimizle irtibata geçiniz.
+
+* Yetkili teknik servisimiz dışında ürüne kimsenin müdahale etmesine izin vermeyiniz. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+* Bu armatürünün harici bükülgen kablo veya kordonu hasarlanırsa; bir tehlikeden kaçınmak için yetkili kişi tarafından değiştirilmesi gerekir.
+
+* Ürün çalışır durumdayken yüzeyi sıcak olabilir. Ürüne enerjisi kesilip, soğumadan dokunulmamalıdır. Ürün çalışır durumdayken direkt olarak bakmayınız.
+
+* Armatür yüzeyini alkol, benzin gibi yanıcı maddelerle temizlemeyiniz.
+
+* Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+* Denize yakın yerlerde tuzlu suyun nemi armatürün dış yüzeyine zarar verebilir.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketi
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında
+hiçbir ücret tale ksizin malın onarımını
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez...
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır
+
+inin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+
+Arızalı kullanım ?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması , makinaya ait olmayan aksesuar takılması
+
+yada zorunlu olan gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması,
+garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli,
+aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur.
+
+İTHALATÇI / İMALATÇI: UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE

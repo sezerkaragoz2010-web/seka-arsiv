@@ -1,0 +1,108 @@
+=== CT-4696 ===
+
+©
+Geleceğin Teknolojisi Bugündenp... CAIA
+
+GOLD WALLWASHER DUVAR BOYAMA / CT-4696L
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir.
+Ürün garantisinin geçerli olması için bu kullanım kılavuzunda yer alan hususların uygulanmsı gerekmektedir.
+
+TEKNİK ÖZELLİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar
+Gü :24W Ürünler nakhıe sırasında direkt darbelere karşı korunmalıdır.
+ÜÇ : Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı sorumluluğundadır.
+Gerilim 1 AC 86-265 V Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Frekans 150-60 Hz
+Koruma Sınıfı :1P65-Class |
+İşik Açısı :30” Kullanım Alanları
+Beyan Akımı :560 mA İ
+Ürün Ömrü 115000 saat ğ'(';îııârr
+Çalışma Sıcaklığı : -20 *C-*40 *C Hastaneler vb.
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+izü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+üzü teslim alırken, ürün ile birlikte gelmesi gereken akesuarlar varsa tam olup olmadığını kontrol ediniz.
+* Ürününüzün orjinal kutusunu veya paketini, aksesuar ve faturasını daha sonraki servis ihtiyacında kullanmak üzere saklayınız.
+ün barkodunun, model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda ürününüz garanti kapsamına girmemektedir.
+* Ürün kullanım amaçları haricinde kullanılmamalıdır.
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+* Elektrik bağlantıları sadece uzman personel tarafından yapılmalıdır.
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz.
+Ç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir.
+* Ürün montajına başlamadan önce kabloların, armatürün dış çeperlerinin hasarlı olmadığından emin olunuz.
+Armatürü yeleştireceğiniz yerde armatüre, hasar verebilcek çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz.
+Uyuşmazlık durumunda meydana gelebilecek arızalardan satıcı firma sorumlu tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+* Ürünü elektirik kaçağı olabilecek yerlerde kullanmayınız.
+* Kablo bağlantı noktaları bağlantı klemensleri veya eriyen bant ile mutlaka yalıtılmalıdır.
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantiside geçersiz kalacaktır.
+* Kullanım sırasında oluşabilecek aşırı ısınmaları önlemek için armatür gövdesi ve etrafındaki cisimler arasında yeterli hava boşluğu kalacak şekilde montaj yapılmasına dikkat edilmelidir.
+
+MONTAJ ŞEKLİ
+
+|
+;fjğıc BCi ’X’&.
+
+Elektrik bağlantısını kesiniz / kapatınız. 2 - Ürünü duvara sabitlediğiniz 3 - Doğru bir şekilde elektrik bağlantısını
+aparatlara monte ediniz. yaptıktan sonra elektriği açabilirsiniz.
+
+;;İ Paslanmaz Çelik Vida
+
+—P Alyan Anahtarı
+&& Duvar Aparatı
+ı&ğ > Ürün Kasası
+
+Driver Kasası
+
+1- Kutudan çıkan aparatları
+duvara vida ile montajlayınız.
+
+DEMONTAJ BİLGİSİ
+
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız.
+
+ÖNEMLİ UYARILAR
+
+* Üründe meydana gelen herhangi bir arıza durumunda; tamir konusunda uzman değilseniz, bu konuda uzman yetkili servisimizle irtibata geçiniz.
+
+* Yetkili teknik servisimiz dışında ürüne kimsenin müdahale etmesine izin vermeyiniz. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+* Led sürücünün bozulması durumunda aynı özellikte led sürücü ile değiştirilmesi gerekmektedir.
+
+aydınlatma armatürünün harici bükülgen kablo veya kordonu hasarlanırsa; bir tehlikeden kaçınmak için yetkili kişi tarafından değiştirilmesi gerekir.
+
+ün çalışır durumdayken yüzeyi sıcak olabilir. Ürünün enerjisi kesilip soğumadan dokunulmamalıdır. Ürün çalışır durumdayken direkt olarak bakmayınız.
+
+* Armatür yüzeyini alkol, benzin gibi yanıcı maddelerle temizlemeyiniz.
+
+* Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gününü geçemez...
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması ya da kullanılması zorunlu olan aksesuarların kullanılmaması gibi), garantili
+ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu,
+rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb. doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+Servis Adresi: Şair Ziya Paşa cad. Lakerdacı sk. Mimaroğlu Han. No12/A Şişhane Beyoğlu/İSTANBUL
+
+AEEE Yönetmeliğine Uygundur. C €
+
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Karaköy - İstanbul / TÜRKİYE
+

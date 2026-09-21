@@ -1,0 +1,223 @@
+=== CT-3020 ===
+
+©
+Geleceğin Teknolojisi Bugünden... CA I A
+
+CT-3020 AKÇAY AYAKLI VANTİLATÖR
+
+Değerli Müşterimiz, .
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer
+alan hususların uygulanması gerekmektedir.
+
+TEKNİK ÖZELİKLER Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+* Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+* Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve kullanıcı
+
+Fan Gücü 138W sorumluluğundadır.
+
+Gerilim 1220-240 V e Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+Frekans 150-60 Hz
+
+Çalışma Sıcaklığı 1-200C-440'C KULLANIM ALANLARI .
+
+Pervane Çapı :16” Evler - Oteller - Lokantalar - Mağazalar - Kafeler
+
+KURULUM ŞEKLİ
+Ön Izgara
+Pervane
+Tablo 1: İlgili olduğu modeli/ı İ yönelik bilgi
+Arka Izgara Tanım Sembol Değer Birim
+Buton Azami fan debisi F 35,5 m3/dk
+Moti ğ ğ Fan güç tüketimi P 38 W
+Otor Hizmet değeri SV 0,6 (m3/dk)W
+Kontrol Kutusu 2 Hazırda bekleme güç tüketimi PSB o W
+Şaft Kapak Fan sesi gücü seviyesi LWA 35 dB(A)
+Somun Azami hava hızı c 3,5 Metre/sn
+: — Anahtar Hizmet değeri ile ilgili standart ölçüm EN IEC 60879:2019
+B Vidası B igi çi
+
+Ayak Kapağı, stand borusunu vida A ile stand tabanına
+B Crîb sıkıca bağlayın.
+2.Bağlantı ekini sökün, taban kapağını ve
+A Vidası stand kapağını stand tabanına yerleştirin,
+â uzatma çubuğunu çıkarın ve ardından
+bağlantı ekini tekrar sıkın.
+3.Kontrol kutusunu uzatma çubuğunun üstüne
+sağlam bir şekilde yerleştirin, vida B'yi sıkın.
+
+Vantilatör Ayağı
+
+AA : | UğurAydınlatma San. ve Tic. Ltd. Şti. / Bankalar Şair Ziyapaşa Cad.
+N — — — Daha fazla bilgi için irtibat detayları : Modern Palas No:3A 34421 Beyoğlu/İSTANBUL-TÜRKİYE
+Uzatma Direği | |
+<| |
+Orta Nokta Döner Anahtar | |
+| |
+—— ——
+Taban Kapağı İ 1. Stand borusunun altına yayı yerleştirin,
+Z
+
+KULLANIM AMACI
+Bu ayaklı vantilatör, sadece kuru ve kapalı alanlarda kullanıma uygundur. Banyoda ya da sürekli olarak nem içeren alanlarda kullanıma uygun değildir.
+
+Pervane kapağını saat yönünde çevirerek | Pervane kapağını, saat yönünün tersine — | Bıçağı motor şaftına kaydırarak takın. Arka Izgarayı motor şaftına yerleştirin ve — | Ön ızgarayı arka ızgara üzerine yerleştirin
+ve arka izgara montaj somununu saat çevirerek şafta takın. koruma somunuyla sabitleyin. ve izgaraları sabitlemek için klipsleri
+yönünün tersine çevirerek sökün. kapatın veya ızgara halkasını vidalayın.
+Arka Izgara . Pervane
+tor l
+
+ol —- bf o |
+
+GÜVENLİK TALİMATLARI
+
+* Lütfen ürünü kullanmadan önce tüm talimatları okuyun.
+
+* Fan yalnızca kullanım kılavuzunda tanımlanan amaçlara uygun olarak kullanılmalıdır.
+
+* Parmaklar, kalemler veya herhangi başka nesneleri koruma ızgarasından içeri sokmayın.
+
+* Elektrik tehlikelerine karşı korunmak için fan fişini veya kablosunu suya daldırmayın ya da üzerine sıvı sıkmayın.
+* Ürün çocuklar tarafından veya çocukların yanında kullanılırken yakın gözetim gereklidir.
+
+* Fan kullanılmadığında, başka bir yere taşınırken veya temizlenirken fişini çekin.
+
+* Hareketli parçalarla temastan kaçının.
+
+* Patlayıcı veya yanıcı gazların bulunduğu ortamda çalıştırmayın.
+
+* Hasarlı bir kablo veya fişle, arıza yapmış ya da düşürülerek hasar görmüş bir cihazı çalıştırmayın.
+
+* Cihaz üreticisi tarafından tavsiye edilmeyen veya satılmayan ek parçaların kullanımı tehlikelere yol açabilir.
+* Dış mekanlarda kullanmayın.
+
+* Kabloyu masa veya tezgahın kenarından sarkıtmayın ya da sıcak yüzeylere temas ettirmeyin.
+
+* Fişi çıkarmak için fişi tutup çekin; asla kabloyu çekmeyin.
+
+* Daima kuru ve düz bir yüzeyde kullanın.
+
+* Fan ızgaraları düzgün şekilde yerinde olmadan çalıştırmayın.
+
+_ğ —
+
+Pervane Kapağı n
+pad © î Ön Izgara
+
+AEEE Yönetmeliğine Uygundur C €
+İTHALATÇI-İMALATÇI : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul
+
+
+
+--- sayfa sonu ---
+
+CT-3020 AKÇAY STAND FAN
+
+©
+Technology of the Future from Today... CA I A
+
+Dear Customer,
+
+This user manual contains the necessary information to ensure maximum performance. İn order for the product warranty to be valid, all subjects in
+the user manual must be applied.
+
+TECHNICAL SPECİFİCATIONS Matters to be considered during handling and transportation;
+
+* Products should be protected against direct impacts during transportation.
+Fan Power :38W * Damages that may occur during transportation and transportation are the
+Voltage :220-240 V responsibility of the contractor, loader, buyer and user. —
+Freguency :50-60 Hz The product must be transported in its packaging to avoid any damage.
+Working Temperature 1-209C-4*40*C FIELDS OF USAGE
+Fan Size 116" Houses - Hotels - Restaurants - Shops - Cafes
+
+ASSEMBLY INSTRUCTIONS
+
+Front Grill
+Blade
+Table 1: Information to identify the modelis) to which the ii ion relates to
+Rear Grill initir Symbol Value Unit
+Button fan flow rate F 35,5 m3/min
+Mot ğ B Fan power consumption P 38 W
+Otor Service value SV 0,6 (m3/min)W
+Control Box Standby power c üi PSB o W
+haft Cap Fan sound power level LWA 35 dB(A)
+Nut l air velocity c 3,5 Mt/sec
+— Switch Standard Measurement for Service Value EN IEC 60879:2019
+Screw B
+
+bottom, tighten stand tube to stand base
+
+B CŞÜ with screw A.
+2.Unscrew out-joint, put the base cover and
+Screw A stand cover on the stand base, pull the
+â extension pole out then tighten the out-
+jJoint again.
+3.Place control box firmly on top extension
+pole, tighten screw B.
+
+Stand Base
+
+Contact details f information : | VBür Aydınlatma San. ve Tic. Ltd. Şti. / Bankalar Şair Ziyapaşa Cad.
+
+AA ontact detals for more informatlor : Modern Palas No:3A 34421 Beyoğlu/İSTANBUL-TÜRKİYE
+Extension Pole | |
+| W
+Out Joint Rotary Switch | |
+| |
+———
+
+Base Cover " Stand Cover 1. Put spring in stand tube from the tube
+ÂÖZ
+
+INTENDED USE
+
+This stand fan is solely suitable for use in dry, closed indoor spaces. İt is not suitable for use in bathrooms or other consistently damp areas.
+
+Unscrew the blade cap by turning Put rear grille on motor shaft and secure Slide blade on motor shaft Screw blade cap on shaft by turning Put front grille on rear grille and close
+clockwise & rear guard mounting nut by with guard nut. counter clockwise clips or screw grille ring to secure grilles
+
+turning counter clockwise. Rear Grill Blade together.
+
+Motor
+Guard Nut
+O © (l © |
+
+SAFETY INSTRUCTIONS
+
+* Please read all instructions before using the product.
+
+* Use the fan only as described in this manual.
+
+* Do not insert fingers, pens, or any objects into the protective grill.
+
+* To avoid electric shock, do not immerse the fan plug or cord in water or spray liguids onto it.
+* Close supervision is necessary when the fan is used by or near children.
+
+* Always unplug the fan when not in use, during cleaning, or while relocating İt.
+
+* Avoid contact with moving parts.
+
+* Do not operate the fan in environments with explosive or flammable gases.
+
+* Do not use a fan with a damaged cord, plug, or after it has malfunctioned or been dropped.
+* The use of parts not recommended or sold by the manufacturer may cause hazards.
+
+* Do not use the fan outdoors.
+
+* Do not let the cord hang over table edges or touch hot surfaces.
+
+* Always hold the plug when unplugging; do not pull the cord.
+
+* Always use the fan on a dry, flat surface.
+
+* Do not operate the fan without the grills properly in place.
+
+Blade Cap
+
+_ğ —
+
+Blade Caj
+p © î © Front Grille
+
+Compliant with WEEE Regulation C €
+IMPORTER/EXPORTER : UĞUR AYDINLATMA SAN. VE TİC. LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul / TÜRKİYE
+

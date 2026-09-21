@@ -1,0 +1,329 @@
+=== CT-4051 ===
+
+CATA-COB323— T /hEkil— S HHinlA Hİ
+
+Rİ: 173.4x2354mm — İHR: 15701590W4344C
+TEZ. MAR42PY AA
+
+BCS0612 V1.0 ittak-2PmM — Fskill
+
+
+--- sayfa sonu ---
+
+Geleceğin Teknolojisi Bugünden...
+
+CT-4051 DIŞ MEKAN AKILLI KAMERA / OUTDOOR IP CAMERA
+
+Değerli Müşterimiz,
+
+Bu kullanım kılavuzu maksimum performans sağlamak için gerekli bilgileri içermektedir. Ürün garantisinin geçerli olması için kullanım kılavuzunda yer alan hususların uygulanması
+
+gerekmektedir.
+
+Dear Customer,
+
+This user manual contains the necessary information to ensure maximum performance. İn order for the product warranty to be valid, all subjects in the user manual must be
+
+applied.
+
+TEKNİK ÖZELİKLER/TECHNICAL SPECIFICATIONS
+
+Çözünürlük/Resolution
+
+Görüntü sıkıştırma/Image Compression
+Resim çerçeve oranı/Picture Frame Rate
+Görüntü sensörü/lmage Sensor
+
+Hareket algılama mesafesi/Motion Detection Dwstance
+
+Güç adaptörü/Power adapter
+
+Hafıza kartı/Memory Card
+
+Çalışma nem oranı/Operating Humidity
+Kamera dönüş açısı/Camera Rotation Angle
+İzleme açısı/Viewing Angle
+
+Lens türü/Lens Type
+
+Ağ bağlantıları/Network Connections
+Çalışma sıcaklığı/Operating Temperature
+Ürün ömrü/Product Life
+
+:FHD
+:H.264
+:15 fps / night; 20 fps / day
+:1/2.7” CMOS
+
+5-10M
+
+:SV/A
+
+:max128 GB
+12096 - 9596 RH
+: Horizontal 336* / Vertical angle 108*
+1759
+
+:FHD
+:80211/2.4 Gz
+1-30*C - *509C
+
+Taşınma ve nakliye sırasında dikkat edilecek hususlar;
+
+* Ürünler nakliye sırasında direkt darbelere karşı korunmalıdır.
+
+* Taşıma ve nakliye sırasında oluşabilecek hasarlar yüklenici, yükleyici, alıcı ve
+kullanıcı sorumluluğundadır.
+
+* Ürünün herhangi bir zarar görmemesi için ambalajın içinde taşınması gerekir.
+
+* Ürünü dik bir şekilde koyunuz. Ürünün üstüne ağırlık koymayınız.
+
+Matters to be considered during handling and transportation;
+
+* Products should be protected against direct impacts during transportation.
+
+* Damages that may occur during transportation and transportation are the
+responsibility of the contractor, loader, buyer and user.
+
+* The product must be transported in its packaging to avoid any damage.
+
+* Put the product upright. Do not put weight on the product.
+
+KULLANIM ALANLARI / USAGE AREAS
+
+:15000 Saat / Hours
+:1P 66
+
+Koruma sınıfı/Protection Class Ev, Ofis, Okul, Hastane, Restoran vs. / Home, Office, School, Hospital, Restaurant etc.
+
+1OS VE ANDROID UYUMLU ÇALIŞMAKTADIR.
+Ürünün ana özelliği; cep telefonuna yüklenen uygulama üzerinden dünyanın her yerinden WI-FI bağlantısı ile kontrol edilmesidir.
+
+IT WORKS COMPATIBLE WITH IOS AND ANDROID.
+The main feature of the product is that it can be controlled via WI-Fİ connection from anywhere in the world through the application installed on the mobile phone.
+
+KURULUM / KULLANIM TALİMATI
+
+Android veya |OS uyumlu akıllı telefonunuza Tuya Smart veya Smart Life aplikasyonunu indiriniz.
+
+Tuya Smart veya Smart Life uygulamasından kayıt butonuna basıp hesabınızı oluşturup giriş yapınız.
+
+Bağlanmadan önce telefonunuzun wifi ve bluetooth özelliğinin açık olduğundan emin olunuz.
+
+Ürünü güç kablosunu adaptöre ardında adaptörü fişe takınız, kameranız hareket edecektir.
+
+TUYA uygulamasını başlatın, Açılış ekranından IP kamerayı seçin. Hareketi sonlandığında lens ile telefon arasında 15-20 cm mesafede tutarak ürünü cihazınıza tarayıp yüklenmesini
+sağlayınız bip sesi duyduğunuzda kamere tanımlanmış olur. Kurulum işlemi tamamlandıktan sonra kamera üzerinde mavi renkli led işlemin başarıyla tamamlandığını göstermektedir.
+
+INSTALLATION / USAGE INSTRUCTION
+
+Download Tuya Smart or Smart Life application to your Android or IOS compatible smartphone.
+
+Click the registration button from Tuya Smart or Smart Life application, create your account and log in.
+Before connecting, make sure your phone's wifi and bluetooth features are turned on.
+
+Plug the product's power cable into the adapter and then plug the adapter, your camera will move. Start the TUYA application, select the IP camera from the opening screen. When
+the movement is finished, keep the product at a distance of 15-20 cm between the lens and the phone, scan the product on your device and ensure that it is loaded, when you hear
+the beep, the camera will be defined. After the installation process is completed, the blue LED on the camera indicates that the process has been completed successfully.
+
+aati Türk Telekomm ©
+
+10:09 L
+
+< Algılama alarmı ayarı
+
+HAREKET
+
+©
+
+Hareket algılama alarm anahtarı
+Duyarlılık
+
+Hareket İzleme
+
+©
+
+AYARLARI
+
+Zamanlayıcı
+o n © U o0 n © U o n © U a
+Playbsck — Galery — Tüeme — Rüe Playbsck — Galeri — Teme — Rüme Playbsck — Galey — Tüeme — Rülale
+4 a »
+« © © © «© © © © « © © ©
+Mode TrEeking — Detectlon Bdi Mode TrReking — — Detectlon Edit Mode TTeckin — Detecilon Edit v
+h a & e e *
+
+© a * A ©
+
+Features
+
+Featüres Features
+
+IP kamera ile 7/24 kayıt yapabilir ve konumlandırdığınız alanı izleyebilir, istediğiniz anın ekran fotoğrafı alabilir, konuşma butonuna basarak kameranın olduğu ortamdaki kişilerle
+karşılıklı konuşabilir, yön tuşu ile kameranın yönünü 360'ye kadar değiştirebilir, algılama ayarları ile istediğiniz ayarı yapabilirsiniz .
+
+With the IP camera, you can record 24/7 and watch the area you position, take a screenshot of the moment you want, talk to the people in the environment by pressing the talk
+button, change the direction of the camera up to 360”with the direction button, and make the desired settings with the detection settings.
+
+MONTAJ / ASSEMBLY
+IP Kamera dikey yüzeylere, tavana ya da masa gibi platformlara yerleştirilebilir.
+The IP Camera can be placed on vertical surfaces, ceilings or on platforms such as tables.
+
+MONTAJ VE GÜVENLİK UYARILARI
+
+* Ürününüzü teslim alırken, fiziksel bir hasar olup olmadığını kontrol ediniz. Nakliye hasarlı ürünlerin değişimini kargodan yada ambardan talep ediniz.
+
+nünüzü teslim alırken, ürün ile birlikte gelmesi gereken aksesuarlar varsa tam olup olmadığını kontrol ediniz.
+
+* Ürün barl;oddunun. model ve seri numarasının zarar görmemesine dikkat ediniz. Bunların okunmaması veya yıpranmış olması durumunda ürününüz garanti kapsamına
+
+irmemektedir.
+
+. Lngün kullanım amaçları haricinde kullanılmamalıdır.
+
+* Satıcı firma, ürünün usulüne uygun olmayan bir şekilde kullanılması sonucu ortaya çıkabilecek yaralanma veya hasar görme vakalarında sorumluluk üstlenmez.
+
+* Ürün kurulurken elektrik bağlantısının kapalı olduğundan emin olunuz. N
+
+* Güç kablolarının hasarlı olduğu durumda ürünü kullanmayınız. Aksi takdirde ölüm, ciddi yaralanma veya maddi hasara neden olabilir. Ürünü yerleştireceğiniz yerde ürüne, hasar
+verebilecek çentik, çıkıntı vb. bulunmamasına özen gösteriniz.
+
+* Ürünün etiket üzerinde belirtilen çalışma geriliminden yüksek bir gerilim almadığından emin olunuz. Uyuşmazlık durumunda meydana gelebilecek arızalardan satıcı firma sorumlu
+tutulamaz ve arıza garanti kapsamında değerlendirilemez.
+
+* Montaj için yalnızca firmamızın belirlediği ek aparatlar kullanılmalıdır.
+
+* Şebeke bağlantısı ilgili ülkenin tesisat yönetmeliğine uygun bağlantı malzemeleriyle yapılmalıdır.
+
+* Ürünü elektrik kaçağı olabilecek yerlerde kullanmayınız.
+
+* Ürün üzerinde tadilat, tamir, oynama veya herhangi bir fiziksel müdahalede bulunmayınız. Bu işlem sonucu maddi hasar oluşabileceği gibi, ürün garantisi de geçersiz kalacaktır.
+
+
+
+--- sayfa sonu ---
+
+Geleceğin Teknolojisi Bugünden...
+
+CT-4051 DIŞ MEKAN AKILLI KAMERA / OUTDOOR IP CAMERA
+
+INSTALLATION AND SAFETY WARNINGS
+
+* When receiving your product, check whether there is any physical damage. Reguest the replacement of damaged products from the cargo or warehouse.
+
+* When receiving your product, check if there are any accessories that should come with the product.
+
+* Be careful not to damage the product barcode, model and serial number. If these are not read or worn, your product is not covered by the warranty.
+
+* When receiving your product, check if there are any accessories that should come with the product.
+
+* Be careful not to damage the product barcode, model and serial number. İf these are not read or worn, your product is not covered by the warranty.
+
+* The product should not be used other than for its intended use.
+
+* The seller company does not take any responsibility in cases of injury or damage that may occur as a result of improper use of the product
+
+* Make sure that the electrical connection is turned off while the product is being installed.
+
+* Do not use the product if the power cables are damaged. Failure to do so may result in death, serious injury or property damage. In the place where you will place the product,
+there are no nicks, protrusions, etc. that may damage the product. Take care not to be present
+
+* Make sure that the product does not receive a voltage higher than the operating voltage specified on the label. The seller company cannot be held responsible for the
+malfunctions that may occur in case of conflict and the malfunction cannot be evaluated within the scope of warranty.
+
+* Only additional apparatus determined by our company should be used for assembly.
+
+* The mains connection must be made with connection materials in accordance with the installation regulations of the relevant country.
+
+* Do not use the product in places where electricity leakage may occur.
+
+* Do not modify, repair, manipulate or make any physical intervention on the product. As a result of this process, material damage may occur and the product warranty will be void.
+
+DEMONTAJ BİLGİSİ / DISASSEMBLY INFORMATION
+Enerjinin kapalı olduğundan emin olduktan sonra montaj bilgisinin ters işlemlerini uygulayınız.
+After making sure that the power is off, perform the reverse operations of the assembly information.
+
+ÖNEMLİ UYARILAR
+* Wİ-FI çekim gücü bozuksa ürünün çalışmasını olumsuz etkileyebilir.
+* Sadece iç mekan kullanımı için uygundur.
+* Üründe meydana geîen herhangw bir arıza durumunda uzman yetkili servisimizle irtibata geçiniz.
+* Yetkili teknik servisimiz dışında ürüne kimsenin müdahale etmesine izin vermeyiniz. Bu tür müdahaleler sonucu ürün tümüyle garanti kapsamı dışında kalır.
+* Bu armatürünün harici bükülgen kablo veya kordonu hasarlanırsa; bir tehlikeden kaçınmak için yetkili kişi tarafından değiştirilmesi gerekir.
+rün çalışır durumdayken yüzeyi sıcak olabilir. Ürüne enerjisi kesilip, soğumadan dokunulmamalıdır. Ürün çalışır durumdayken direkt olarak bakmayınız.
+* Ürün yüzeyini alkol, benzin gibi yanıcı maddelerle temizlemeyiniz.
+* Ürünü çocukların ulaşamayacakları yerlerde ve ürün kutusu içinde muhafaza ediniz.
+* Iİslak ve nemli alanlarda ürünü kullanmayınız.
+
+IMPORTANT WARNINGS
+
+* |f the WIİ-Fİ reception strength is broken, it may adversely affect the operation of the product.
+
+* Suitable for indoor use only.
+
+* İn case of any malfunction in the product, please contact our authorized authorized service.
+
+* Do not allow anyone to interfere with the product other than our authorized technical service. As a result of such interventions, the product is completely out of warranty.
+* |fthe external flexible cable or cord of this fixture is damaged; must be replaced by a dgualified person to avoid a hazard.
+
+. Tr;ıelsuvface may be hot while the product is in operation. The product should not be touched before the power is cut off and it cools down. Do not look directiy at the product
+while it is in operation.
+
+* Do not clean the product surface with flammable substances such as alcohol or gasoline.
+
+* Keep the product out of reach of children and in the product box.
+
+* Do not use the product in wet and humid areas.
+
+GARANTİ BELGESİ
+
+Garanti Şartları
+1- Garanti süresi, malın fatura tarihinden itibaren başlar ve 1 yıldır.
+2- Malın bütün parçaları dahil olmak üzere tamamı garanti kapsamındadır.
+3- Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan;
+a) Ücretsiz onarımı yaptırmak.
+b) Onarımı yapılmadığı takdirde yeni ürünle değiştirilmesi.
+4- Tüketicinin bu haklardan ücretsiz onarım durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın
+onarımını yaptırmakla yükümlüdür.
+5- Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir. Malın tamir süresi 20 iş gü
+6- Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan arızalar garanti kapsamı dışındadır.
+
+Üü geçemez...
+
+Arızalı ürünü garanti kapsamı dışına çıkaran kullanım hataları nelerdir ?
+
+Elektrik ve kullanıcının kullanımından doğan arızalar (elektrik kesilmesi, voltaj dalgalanması, makinaya ait olmayan aksesuar takılması yada kullanılması zorunlu olan aksesuarların
+kullanılmaması gibi), garantili ürünlerde yetkili servis dışında herhangi bir müdahalenin yapılması, garanti etiketi olan ürünlerde etiketin zarar görmesi, cihazın dış yüzeyinde oluşan
+kırık, çizik vb. nedenlerden meydana gelen arızalar, tozlu, rutubetli, aşırı sıcak ya da soğuk ortamlarda kullanılma sebebi ile oluşan arızalar, sel, yangın, deprem, yıldırım düşmesi vb.
+doğal afetlerin sebep olduğu arızalarda garanti kapsamı dışındadır.
+
+WARRANTY CERTIİFİCATE
+
+Warranty conditions
+1- The warranty period starts from the invoice date of the goods andit is | year.
+2- The entire product, including all parts, is under warranty.
+3- In case the goods are found to be defective, the consumer, in Article 11 of the Law No. 6502 on the Protection of the Consumer;
+a) To have free repair.
+b) Ifit is not repaired, replacing it with a new product.
+4- n case of free repair of the consumer from these rights, the seller; İt is obliged to have the goods repaired without any charge under any other name, such as labor cost,
+replacement part cost or any other name.
+5- In case of malfunction of the product within the warranty period, the period of repair is added to the warranty period. The repair period of the goods cannot exceed 20 working
+
+days.
+
+6- Defects resulting from the use of the product contrary to the terms in the user manual are not covered by the warranty.
+
+What are the usage errors that make the defective product out of warranty?
+
+Defects arising from electricity and user usage (such as power cut, voltage fluctuation, installation of accessories that do not belong to the machine or not using mandatory
+accessories), any intervention other than authorized service in guaranteed products, damage to the label in products with warranty label, damage to the outer surface of the
+device. broken, scratched etc. Failures caused by reasons such as failures caused by use in dusty, humid, extremely hot or cold environments, flood, fire, earthauake, lightning strike,
+etc. Failures caused by natural disasters are not covered by the warranty.
+
+Servis Adresi/Service Address : Şair Ziyapaşa Cad. Lakerdacı Sk. Mimaroğlu Han. No.12/A Şişhane Beyoğlu/İSTANBUL
+
+BCS0612 V1.0
+
+AEEE Yönetmeliğine Uygundur/Compliant with WEEE Regulation C €
+
+İTHALATÇI-İMALATÇI / /MPORTER/EXPORTER : UĞUR AYDINLATMA SAN. VE TİC, LTD. ŞTİ. Bankalar, Şair Ziyapaşa Cad. Modern Palas No:3/B Şişhane / Beyoğlu - İstanbul-/-TÜRKİYE
